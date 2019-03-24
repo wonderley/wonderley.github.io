@@ -1,2 +1,4 @@
-.jekyll_metadata
-.sass_cache
+.jekyll-metadata
+.sass-cache
+_site
+.DS_Store

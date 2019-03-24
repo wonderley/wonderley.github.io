@@ -1,6 +1,35 @@
 <header id="header">
 	<a href="{{ site.baseurl }}">
-		<img src="{{ "/img/emerald.svg" | prepend: site.baseurl | replace: '//', '/' }}" alt="Emerald Logo">
-	  <h1>emerald</h1>
-	</a>
+    <div id="header-container">
+      <div>
+        <img id="lucas-img" src="{{ "/img/pic.jpg" | prepend: site.baseurl | replace: '//', '/' }}" alt="Lucas Wonderley">
+      </div>
+      <div class="header-subheader">
+        <h1>Lucas Wonderley</h1>
+        <div class="subheader">Software Developer</div>
+      </div>
+    </div>
+  </a>
+  <div id="contact-icon-container">
+    <div>
+      <a href="mailto:lucas.r.wonderley@gmail.com">
+        <img src="{{ "/img/gmail.png" | prepend: site.baseurl | replace: '//', '/' }}"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://twitter.com/LucasWonderley" target="_blank">
+        <img src="{{ "/img/twitter.png" | prepend: site.baseurl | replace: '//', '/' }}"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://linkedin.com/in/lucas-wonderley-660474b/" target="_blank">
+        <img src="{{ "/img/linkedin.png" | prepend: site.baseurl | replace: '//', '/' }}"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/wonderley" target="_blank">
+        <img src="{{ "/img/github.png" | prepend: site.baseurl | replace: '//', '/' }}"/>
+      </a>
+    </div>
+  </div>
 </header>
