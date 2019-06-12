@@ -6,6 +6,8 @@ As an engineer, “You don’t scale.”
 
 A very senior manager once told me this as career advice. The point was, to advance your career, you will need to manage people and climb the corporate ladder. You can only write so much code in a day, so your impact has an upper limit. Is this true?
 
+![Scale](/assets/images/2019-06-12-do-you-scale/scale.png "scale")
+
 In software development in particular, we think a lot about scale. We like our solutions to scale. It’s one of the holy grails of a great product. So we tend to tacitly assume that our careers must scale, too. Suggesting otherwise is like telling us our code is buggy: it’s counter to our intuition, and probably our ego. 
 
 Somewhere in every dev’s consciousness is the mythology of the 10Xer: A great engineer can increase their team’s productivity by an order of magnitude or more. There’s exaggeration and truth in this.
