@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-I’m an experienced full-stack developer in Atlanta, GA. I work at SAP, where I’ve helped build mobile platform products for the past 6+ years.  I’m also interested in backend development, knowledge representation, data science and voice assistant technologies.
+I’m an experienced full-stack developer in Atlanta, GA. I’m interested in stuff like command line terminals, voice assistants, and project management. The purpose of this blog is to explore how software development professionals can grow in their careers and become more valuable to their team, organization and community.
