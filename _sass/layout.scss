@@ -33,13 +33,21 @@ html, body {
     max-width: 730px;
     padding: 0 1.5rem;
     justify-content: center;
+    align-items: center;
+  }
+  #lucas-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   #lucas-img {
-    max-height: 40vh;
+    max-height: 5em;
     object-fit: contain;
-    padding-right: 10px;
+    padding-right: 1em;
+    @media (min-width: 768px) {
+      padding-right: 2em;
+    }
     margin-bottom: 0px;
-    display: block;
   }
   #contact-icon-container {
     /* horizontal box like header-container */
@@ -55,6 +63,9 @@ html, body {
   #contact-icon-container a img {
     object-fit: contain;
     padding: 0 10px 0 10px;
+    @media (min-width: 768px) {
+      padding: 0 2em 0 2em;
+    }
   }
   h1 {
   	font-family: 'Signika', sans-serif; //Emerald logo font
