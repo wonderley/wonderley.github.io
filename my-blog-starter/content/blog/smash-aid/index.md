@@ -1,0 +1,42 @@
+---
+title: "Introducing Smash Aid: An Alexa Skill for Super Smash Bros."
+date: "2018-08-22"
+---
+>“Becoming comfortable with lengths of time in frames is incredibly important. It’s an absolute necessity.”
+> -Masahiro Sakurai, creator of Super Smash Bros.*
+
+In competitive Smash, it’s important to improve your understanding of the game so that you can make better decisions. An important factor in how you make these decisions is “frame data”: the characteristics of different moves, especially how fast they are. For example, if your opponent rolls behind you, are any moves quick enough to punish them on reaction?
+
+![Mario Up Smash](./mario-up-smash.gif "Mario Up Smash")
+<div class="caption">A simple situation where a player’s knowledge of frame data came in handy.</div>
+
+In the above situation, the Mario player noticed that the Luigi player was in a vulnerable position. He waited for him to choose a defensive option, knowing that he could react to a roll with a powerful up smash.
+
+Frame data is available online, but sometimes it’s inconvenient to look it up on your phone or laptop. Wouldn’t it be great if you could just ask about a move and have the answer right away?
+
+To answer this question, I created Smash Aid. It’s an Alexa skill which tells you frame data for every move in the game. The result is a resource for smashers — whether you’re a veteran or brand new to the game — that’s easy to access and always available.
+
+When you interact with Smash Aid, it’ll go something like this:
+
+![Conversation Part 1](./conv1.gif "Conversation Part 1")
+
+![Conversation Part 2](./conv2.gif "Conversation Part 2")
+
+![Conversation Part 3](./conv3.gif "Conversation Part 3")
+<div class="caption">A sample interaction.</div>
+
+
+Smash Aid is a work in progress, and it has a lot of room for improvement. It currently only tells you a move’s active frames and when your character can act. For now, there’s no other info like the damage, knockback or angle, and it’s only available for Smash 4. It supports multihits and complex moves with multiple parts, although in some cases the output is probably too long:
+
+![Conversation Part 4](./conv4.gif "Conversation Part 4")
+<div class="caption">Alexa describes all the variations of Cloud’s Blade Beam.</div>
+
+Okay, that’s way too long to be practical! I’m thinking about getting around this issue by asking the user what part of the move they want to know about. But for now, this gets the point across.
+
+My hope is that by making this information more accessible, Smash Aid will allow players of all skill levels to get more out of the game! I plan to add new features based on community feedback, so try it out and let me know what you think. You can test it out by saying “Alexa, enable Smash Aid” to your Alexa device or app, or by viewing it in the Alexa Skills Store [here](https://www.amazon.com/Lucas-Wonderley-Smash-Aid/dp/B07GB8PJ9F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1534534625&sr=1-1).
+
+Special thanks to [kuroganehammer.com](http://kuroganehammer.com), which hosts the information used by Smash Aid, and to everyone in the Smash community who spent tons of time making all this information available!
+
+---
+
+*The quote at the top of this post is somewhat out of context, as Sakurai was talking about developing games, not playing them. Still, as any competitive Smasher will tell you, the point stands: Frame data is important!
