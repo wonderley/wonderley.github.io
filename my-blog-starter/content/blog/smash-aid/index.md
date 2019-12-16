@@ -1,6 +1,7 @@
 ---
 title: "Introducing Smash Aid: An Alexa Skill for Super Smash Bros."
 date: "2018-08-22"
+description: ""
 ---
 >“Becoming comfortable with lengths of time in frames is incredibly important. It’s an absolute necessity.”
 > -Masahiro Sakurai, creator of Super Smash Bros.*
