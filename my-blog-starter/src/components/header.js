@@ -7,7 +7,7 @@ import github from "../../content/assets/github.png"
 import profilePic from "../../content/assets/wonderley-profile-circle.png"
 const Header = () => {
   return (
-    <header id="header">
+    <header id="main-header">
       <div id="grid-container">
         <div id="lucas-img-container">
           <img id="lucas-img" src={profilePic} alt="Lucas Wonderley"/>
