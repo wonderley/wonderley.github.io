@@ -5,6 +5,14 @@ html, body {
 	height: 100%;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  margin: 0
+}
+
+img {
+  margin: 0;
+}
+
 /* Main content */
 
 .fixed {
@@ -19,10 +27,6 @@ header {
   text-align: left;
   padding: 24px 0 0 0;
   position: relative;
-}
-
-img {
-  margin-bottom: 0;
 }
 
 #grid-container {
@@ -72,6 +76,10 @@ img {
 }
 #name-text {
   grid-area: name;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
 }
 #subheader {
   grid-area: subheader;
@@ -79,6 +87,12 @@ img {
   justify-content: center;
   align-content: center;
   flex-direction: column;
+}
+.contact-icon {
+  text-decoration: none;
+}
+.contact-icon > a {
+  box-shadow: none;
 }
 /* #contact-icon-container {
   horizontal box like header-container
