@@ -15,47 +15,75 @@ html, body {
   }
 }
 
-#container {
-	margin:0 auto;
-	max-width: 730px;
-	padding: 0 1.5rem;
-}
-
 header {
   text-align: left;
   padding: 24px 0 0 0;
   position: relative;
 }
 
-#header-container {
+img {
+  margin-bottom: 0;
+}
+
+#grid-container {
+  display: grid;
+  max-width: 730px;
+  grid-template-areas: 
+  "img img name name name name"
+  "img img subheader subheader subheader subheader"
+  "img img gmail twitter linkedin github";
+  grid-auto-columns: 1fr;
+  grid-auto-rows: 1fr;
+}
+
+#gmail {
+  grid-area: gmail;
+}
+
+#twitter {
+  grid-area: twitter;
+}
+
+#linkedin {
+  grid-area: linkedin;
+}
+
+#github {
+  grid-area: github;
+}
+
+/* #header-container {
   text-decoration: none;
-  /*color: $text-color;*/
-  display: flex;
+  //color: $text-color;
   margin:0 auto;
   max-width: 730px;
   padding: 0 1.5rem;
   justify-content: center;
   align-items: center;
-}
+} */
 #lucas-img-container {
-  display: flex;
   justify-content: center;
   align-items: center;
+  grid-area: img;
+  display: flex;
 }
 #lucas-img {
-  max-height: 5em;
   object-fit: contain;
-  padding-right: 1em;
-  @media (min-width: 768px) {
-    padding-right: 2em;
-  }
-  margin-bottom: 0px;
 }
-#contact-icon-container {
-  /* horizontal box like header-container */
-  text-decoration: none;
-  /*color: $text-color;*/
+#name-text {
+  grid-area: name;
+}
+#subheader {
+  grid-area: subheader;
   display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+/* #contact-icon-container {
+  horizontal box like header-container
+  text-decoration: none;
+  color: $text-color;
   margin:0 auto;
   max-width: 730px;
   padding: .8rem 1.5rem .8rem 1.5rem;
@@ -68,7 +96,7 @@ header {
   @media (min-width: 768px) {
     padding: 0 2em 0 2em;
   }
-}
+} */
 /* &:after {
   display: block;
   content: '';

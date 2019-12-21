@@ -8,34 +8,32 @@ import profilePic from "../../content/assets/wonderley-profile-circle.png"
 const Header = () => {
   return (
     <header id="header">
-      <a href="/">
-        <div id="header-container">
-          <div id="lucas-img-container">
-            <img id="lucas-img" src={profilePic} alt="Lucas Wonderley"/>
-          </div>
-          <div class="header-subheader">
-            <h1>Lucas Wonderley</h1>
-            <div class="subheader">Software Developer</div>
-          </div>
+      <div id="grid-container">
+        <div id="lucas-img-container">
+          <img id="lucas-img" src={profilePic} alt="Lucas Wonderley"/>
         </div>
-      </a>
-      <div id="contact-icon-container">
-        <div>
+        <div id="name-text">
+          <h1>Lucas Wonderley</h1>
+        </div>
+        <div id="subheader">
+          <h2>Software Professional</h2>
+        </div>
+        <div id="gmail" class="contact-icon">
           <a href="mailto:lucas.r.wonderley@gmail.com">
             <img src={gmail}/>
           </a>
         </div>
-        <div>
+        <div id="twitter" class="contact-icon">
           <a href="https://twitter.com/LucasWonderley" target="_blank">
             <img src={twitter}/>
           </a>
         </div>
-        <div>
+        <div id="linkedin" class="contact-icon">
           <a href="https://linkedin.com/in/lucas-wonderley-660474b/" target="_blank">
             <img src={linkedin}/>
           </a>
         </div>
-        <div>
+        <div id="github" class="contact-icon">
           <a href="https://github.com/wonderley" target="_blank">
             <img src={github}/>
           </a>
