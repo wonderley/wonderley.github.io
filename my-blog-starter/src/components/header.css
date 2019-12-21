@@ -1,0 +1,83 @@
+/* -- General Layout -- */
+
+/* Required for footer to stick to the bottom */
+html, body {
+	height: 100%;
+}
+
+/* Main content */
+
+.fixed {
+  position: fixed;
+  width: 100%;
+  @media (min-width: 940px) {
+    position: static;
+  }
+}
+
+#container {
+	margin:0 auto;
+	max-width: 730px;
+	padding: 0 1.5rem;
+}
+
+header {
+  text-align: left;
+  padding: 24px 0 0 0;
+  position: relative;
+}
+
+#header-container {
+  text-decoration: none;
+  /*color: $text-color;*/
+  display: flex;
+  margin:0 auto;
+  max-width: 730px;
+  padding: 0 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+#lucas-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#lucas-img {
+  max-height: 5em;
+  object-fit: contain;
+  padding-right: 1em;
+  @media (min-width: 768px) {
+    padding-right: 2em;
+  }
+  margin-bottom: 0px;
+}
+#contact-icon-container {
+  /* horizontal box like header-container */
+  text-decoration: none;
+  /*color: $text-color;*/
+  display: flex;
+  margin:0 auto;
+  max-width: 730px;
+  padding: .8rem 1.5rem .8rem 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+#contact-icon-container a img {
+  object-fit: contain;
+  padding: 0 10px 0 10px;
+  @media (min-width: 768px) {
+    padding: 0 2em 0 2em;
+  }
+}
+/* &:after {
+  display: block;
+  content: '';
+  width: 5rem;
+  height: 1px;
+  margin: 23px auto;
+  background-color: lighten($text-color, 70%);
+} */
+header > h1 {
+  font-family: 'Signika', sans-serif;
+  font-weight: 700;
+}
