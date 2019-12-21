@@ -80,6 +80,7 @@ img {
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  user-select: none;
 }
 #subheader {
   grid-area: subheader;
@@ -87,6 +88,7 @@ img {
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  user-select: none;
 }
 .contact-icon {
   text-decoration: none;
