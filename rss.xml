@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lucas Wonderley]]></title><description><![CDATA[Lucas Wonderley's personal website]]></description><link>https://wonderley.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Dec 2019 23:44:38 GMT</lastBuildDate><item><title><![CDATA[Code reviews]]></title><description><![CDATA[It’s hard to review code. You’d often much rather keep focusing on your own work. Code reviews break your focus. They also force you to…]]></description><link>https://wonderley.io/code-reviews/</link><guid isPermaLink="false">https://wonderley.io/code-reviews/</guid><pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It’s hard to review code. You’d often much rather keep focusing on your own work. Code reviews break your focus. They also force you to interpret changes without seeing them in action, and without the assistance of an IDE. The result is a high cognitive load (it takes a lot of focus and thought) and a seemingly low payoff (it’s someone else’s work you’re helping push forward, not your own). &lt;/p&gt;
+&lt;p&gt;I’ve found that with code reviews as with many things, a willfully stubborn attitude is key to doing it properly.&lt;/p&gt;
+&lt;p&gt;Next time you review someone’s code, try this. Pretend you submitted a PR yesterday and woke up today with no memory of having made that change. The code is already approved and ready to merge, but you don’t remember writing it!&lt;/p&gt;
+&lt;p&gt;So, would you merge it into production? Of course not! You’d need to be sure to understand what that code says because it’s got your name on it. You’d go through every line of that change and visualize how it works in real time. You’d think about the design implications. You might even test it out yourself.&lt;/p&gt;
+&lt;p&gt;So it is with reviewing the work of your teammates. Even if it’s not your change, you’re accountable for its quality. As a leader and a good teammate, it’s important to go further than eyeballing the change. You have to take it seriously.&lt;/p&gt;
+&lt;p&gt;It might take more of your time than you want to spend. So be it! Be stubborn in your insistence for deep understanding. The resulting software will be less buggy and easier to maintain. And your teammates will appreciate your commitment to making their work better.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Do a little more testing!]]></title><description><![CDATA[Even when you’re confident in your work, add a bit of extra caution for good measure. When you think you have a fix, don’t say so right away…]]></description><link>https://wonderley.io/do-a-little-more-testing/</link><guid isPermaLink="false">https://wonderley.io/do-a-little-more-testing/</guid><pubDate>Thu, 14 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Even when you’re confident in your work, add a bit of extra caution for good measure.&lt;/p&gt;
+&lt;p&gt;When you think you have a fix, don’t say so right away. Verify more than you want to.&lt;/p&gt;
+&lt;p&gt;If youre not careful, you can make mistakes and cost everyone’s time. It won’t be a huge deal, but it’ll be annoying and a little embarrassing.&lt;/p&gt;
+&lt;p&gt;You’ll want to show all your coworkers what a great engineer you are. You can see the whole thing end to end - it works, it makes sense! Isn’t that great? Ship it!&lt;/p&gt;
+&lt;p&gt;It takes some emotional maturity to resist that temptation. You have to be deliberate about pumping the breaks.&lt;/p&gt;
+&lt;p&gt;Even in the most agile and fast-moving organization, the experienced developer knows to mix the excitement with a healthy dose of caution. Move fast, but try not to break things. 😄&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Do you scale?]]></title><description><![CDATA[As an engineer, “You don’t scale.” A very senior manager once told me this as career advice. The point was, to advance your career, you will…]]></description><link>https://wonderley.io/do-you-scale/</link><guid isPermaLink="false">https://wonderley.io/do-you-scale/</guid><pubDate>Wed, 12 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As an engineer, “You don’t scale.”&lt;/p&gt;
+&lt;p&gt;A very senior manager once told me this as career advice. The point was, to advance your career, you will need to manage people and climb the corporate ladder. You can only write so much code in a day, so your impact has an upper limit. Is this true?&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a89639dd5393198de51d9607ddbbc69c/09ca4/scale.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 83.14763231197772%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACNklEQVQ4y6VU25KiMBD1/z9pn/fysLXOaHl3BCQgNwHFQUSSnO0OjoNuOWXVUtUkDcnJ6T7d6Wmt4fs+lFLgh/3/sR4DWZYFIQSklJBNg4aMR/abD5//3fn3cx57/HJdF3meG5YNndIQU8nGCy9AXcBHvpKqZbh2HCRJYgDVYQ+dxlDbBJJ8eQfwyBgsrdIWkMNN0xSK2FVuhP1ghXrpQEE/DagVafHutyE7xDCKiJWWEIHCQkjsahJJqy9D/PAZrKxLJKeoZWjbNgFG5of3LmAdFrSgMP5TgJTwXZ3DjtIuw8jkoVWOF6uHKnfn5zNLqDHbbLCJThdR1uurKK2yz+WNAUGZDrcVJiI0wNeQuWy4ML+qu1ufQtVn5CkwcmOU8kBwaAE9z0NRFAbwHyadIuc0NFIZJlyn8RYk4gHx0YeuTpBZ9tkpXDZaqSuDRrWbzywMHS3pMNWcjBVJiXCUIXNC+N4ral9AkQbycECP1sGxHex2u7aXL/1M2SYUylFB39MtbUhxtBLEwxjRKkeehQjSBaq6MvvMgRxyVZV4Wy0RhwHKjY9CuNg5a+QrG5uRBWcaYL1MMJsFGAma5wG8UiAsYwI7oz7VqKrKjMfjET3xNsBw/AezyQsG4xf0R6/43h/g2+8hfk0n+Enffoz7mIopVu4CS3tuqiIKItiWbQQNggDz+dzcWj3mKTwfWZbj9tG3ozaNY8z0vFafbUfhnilF5vriC4BP2O/3nTp84jJg0Mv67vwvSt4kQ1XAe1EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Scale&quot;
+        title=&quot;scale&quot;
+        src=&quot;/static/a89639dd5393198de51d9607ddbbc69c/799d3/scale.png&quot;
+        srcset=&quot;/static/a89639dd5393198de51d9607ddbbc69c/00d96/scale.png 148w,
+/static/a89639dd5393198de51d9607ddbbc69c/0b23c/scale.png 295w,
+/static/a89639dd5393198de51d9607ddbbc69c/799d3/scale.png 590w,
+/static/a89639dd5393198de51d9607ddbbc69c/09ca4/scale.png 718w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In software development in particular, we think a lot about scale. We like our solutions to scale. It’s one of the holy grails of a great product. So we tend to tacitly assume that our careers must scale, too. Suggesting otherwise is like telling us our code is buggy: it’s counter to our intuition, and probably our ego. &lt;/p&gt;
+&lt;p&gt;Somewhere in every dev’s consciousness is the mythology of the 10Xer: A great engineer can increase their team’s productivity by an order of magnitude or more. There’s exaggeration and truth in this.&lt;/p&gt;
+&lt;p&gt;Yes, even great developers can only do so much in a day. Whether you work for a startup or a big company, you’re just one piece of a larger machine that can have many bottlenecks. And typically devs are viewed as a part of operating costs. They’re a necessary evil as far as the balance sheet is concerned. They don’t create revenue; they’re just needed to help the business deliver on its commitments.&lt;/p&gt;
+&lt;p&gt;But bad development and management decisions can certainly cause a project to advance 10 times slower. In software, where complexities multiply at every turn, clarity is golden. And that comes from experience.&lt;/p&gt;
+&lt;p&gt;Today more than ever, it’s possible to have an outsized impact. For one thing, consider the power of online content. A great developer can evangelize and build community around a technology by giving talks, creating content and interacting on social media.&lt;/p&gt;
+&lt;p&gt;Also, in this age of digital transformation and heightened consumer expectations, technology architecture is becoming more enmeshed with business decisions. Retailers, construction companies and mom-and-pop shops alike must take their stack seriously just to provide an adequate experience for their customers, let alone get a competitive edge. If &lt;a href=&quot;https://news.microsoft.com/en-gb/2018/11/07/microsoft-ceo-satya-nadella-on-fuelling-tech-intensity-in-the-uk/&quot;&gt;“every company is a software company,”&lt;/a&gt; even the suits need to be technical.&lt;/p&gt;
+&lt;p&gt;So personally, I don’t worry about not scaling. I try to have faith that if I keep learning and building stuff, good things will happen. Software (and, uh, life?) is magical like that.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Don’t be arrogant. Be humble and teach.]]></title><description><![CDATA[We shouldn’t be arrogant about things we understand that others don’t. Recently I remembered a poker article that I read years ago. The gist…]]></description><link>https://wonderley.io/dont-be-arrogant/</link><guid isPermaLink="false">https://wonderley.io/dont-be-arrogant/</guid><pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We shouldn’t be arrogant about things we understand that others don’t.&lt;/p&gt;
+&lt;p&gt;Recently I remembered a poker article that I read years ago. The gist was: Don’t think yourself superior to another player because you understand something about the game that they don’t. There was a time when you didn’t understand it, either. You had to learn. We are all at different parts of an ongoing learning journey.&lt;/p&gt;
+&lt;p&gt;In the midst of a busy day, it’s easy to get annoyed by a request for help with something that seems trivial.&lt;/p&gt;
+&lt;p&gt;But as developers, we’re all imperfect.  We all have blind spots. Sometimes you might think you’re going in the right direction in solving a problem, even though you’ve been working on it for a long time. And sometimes, a teammate can take a look at that problem and solve it for you instantly. It’s not that they’re better than you, it’s just that we all have different backgrounds and strengths. A fresh perspective can be not only fresh but totally novel.&lt;/p&gt;
+&lt;p&gt;So believe in yourself and know that you can do anything. But also be humble, and know that you will make mistakes, despite your best efforts. And remember this when you’re working with someone who’s struggling with a topic that you find easy. You’re not superior to them, or anyone else. Be patient, and try to help and teach. Guide them toward your way of looking at the problem. This approach is productive and avoids negativity. And you grow personally as a teacher and leader. Through this lens, a request for help is not an inconvenience at all, but an opportunity and a gift.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Should developers learn to use a terminal?]]></title><description><![CDATA[At some point early in their career, every software developer is faced with a question. Should I learn to use a command line terminal? Is it…]]></description><link>https://wonderley.io/terminal/</link><guid isPermaLink="false">https://wonderley.io/terminal/</guid><pubDate>Wed, 20 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;At some point early in their career, every software developer is faced with a question.&lt;/p&gt;
+&lt;p&gt;Should I learn to use a command line terminal?&lt;/p&gt;
+&lt;p&gt;Is it a time-saver or just a waste of time?&lt;/p&gt;
+&lt;p&gt;In 2019, surely we’re past such a crude tool!&lt;/p&gt;
+&lt;p&gt;There’s no objective answer. But here are a few thoughts.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/67a895bb079e6e7cc340123b8eed0696/d9ed0/Terminal.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.465753424657535%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAAC2UlEQVQozzWTy25TVxRAj2DSxnaetpNev+JX7tv3xnFsgu04D9txYmITxyEiFEgprQqiDSBoGUAl1DF8QocV/wATJCSEoB10UlVqp/2HNlJXz71JB0v7nKO9l/be0hEjMw6BT1wCSpFgrEQovshookzolLHUEqPJCgGZF/RyJF5+MLbg53l4Z98xXUBMpM8zmalKakxml5nMrTKVXyM8t+4T1VtMG53T+xoRtUlYXSeiNSUtwvkVv34such4qoyI2R3ihU0S7gWyxS5qZVPSQ1+6SL7UlXEH4/wAq7bnn9VK/4Ryj7nyNumFHgmnS8xqo5hNhFbdx1g+QK0fMF/bptNpU63WKZcrOM48TsGlIHHdoh9t28F1PAoUXYf5xhC3fZPC2jXMxhVEdecOS71bnOvfprQ6oGBZmIaJoet+NA0DQ9PRNQ1d1eS7RjZnkcq45GSsd6/SuvIdK5fu0hjeRVQ2rrM+/JrejcfU23uyWMO2bCzT9oW6lGlS5Am9OJsxGTTjPLkxyqcXklS3PmPny6d0Lt+j2v0csVgbsNG/yf7ht6y2dn3hSYeGL/sfU3aclrLnR1PwLgK/luDtGX78PspMrkFCWyGeryEuHT5g5+CIla1DrPnG6aiW7FDijSzFlqGTyRr017PwWsAvRY7/esG/fz6SUkFvLYEI2URSi4it3a/oXPyC7f07NJoDf2e2VfC71NSTcU25t3jK4OE1xRccv5LSPx7yz4dl//7DbQURsBmLaojN4S36l48YXpcjt3f9Yk/q7cwb3+v4pEOTvU4G3kjZ2xh//3af45fy/LPgYDvNmVGH8WkDMZ1eQpmrk3E2yFrLzMrC2axFMm3IrjRiiTxKPCvJMBHN8eybELwfgd/lDj8Ifno6TihqSUxCEV3+FMVhKl4knFggkiz5hCXe24TiMjZjE5SJgSmVj8bnOBtU6dQVHl0dYdCK8/GE964SDKsEwhr/AY02ljqZwFhKAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Terminal&quot;
+        title=&quot;Terminal&quot;
+        src=&quot;/static/67a895bb079e6e7cc340123b8eed0696/799d3/Terminal.png&quot;
+        srcset=&quot;/static/67a895bb079e6e7cc340123b8eed0696/00d96/Terminal.png 148w,
+/static/67a895bb079e6e7cc340123b8eed0696/0b23c/Terminal.png 295w,
+/static/67a895bb079e6e7cc340123b8eed0696/799d3/Terminal.png 590w,
+/static/67a895bb079e6e7cc340123b8eed0696/d9ed0/Terminal.png 730w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;One reason terminals get a bad rap in some circles is that they have high learning curve. You have to figure out the basics of how to use them in the first place. And unlike a GUI app, which tells you what it can do with buttons and menus, it’s rarely obvious how exactly to use an individual program or utility. Instead of WYSYWIG - what you see is what you get - you may encounter the prickly advice to RTFM - read the f***ing manual! Realistically, you’re more likely to read a bit of the man page and scan for the feature you need, then try it out. But the whole process, and really everything about the terminal, requires a bit of curiosity and initiative.&lt;/p&gt;
+&lt;p&gt;But in return, you get a set of interoperable tools that can be really powerful. You can script repeated tasks and tie them together in interesting ways. You even develop muscle memory for tools that are especially useful to you, making them just as quick as any GUI.&lt;/p&gt;
+&lt;p&gt;Some things suck. Text editing comes to mind, especially in comparison with modern IDEs. I once had a teacher with a perfectly configured Emacs environment. He could zip around different files and parts of code with a few keystrokes faster than you could keep up. For years I casually chased after this level of mastery with Vim. But frankly, without digressing too far, it is a pain to keep up with all the plugins and idiosyncrasies. You should still learn Vim and/or Emacs. But most of the time, stick to modern, flexible editors like VS Code and the like so you can focus on your actual work.&lt;/p&gt;
+&lt;p&gt;On the other hand, some tools are designed for the terminal and work better there. Git, for example, has some quirks as a CLI but you get used to it. GUIs, though fine for basic Git tasks, feel kludgy for more in-depth commands. The GUI is just a thin abstraction, so you end up needing to know what the commands are doing, anyway. And since version control is expressed as diffs, it lends itself well to a workflow like this: Run a command, search through the resulting text, run another command, and so on.&lt;/p&gt;
+&lt;p&gt;Similarly, compilers essentially use text as their input and output. IDEs are great, but when things aren’t working quite right, a terminal is a great way to poke around at the issue.&lt;/p&gt;
+&lt;p&gt;The &lt;code class=&quot;language-text&quot;&gt;find&lt;/code&gt; command is still better than any built-in search function I know of. macOS Finder stinks: The default behavior is to search your whole Mac, even if you’ve selected a certain directory. And the Windows Explorer search function, while having some advanced features, is known to be downright faulty (search for windows explorer search not working).&lt;/p&gt;
+&lt;p&gt;Compared with their GUI counterparts, command line utilities also tend to be more transparent. You can see what your commands are doing and configure the output to be more or less verbose. And you can take that output and do something else with it on the fly, connecting it as the input to another command.&lt;/p&gt;
+&lt;p&gt;If you want to use Linux, modern flavors include a pretty nice GUI. But realistically, everything in Linux is built with the expectation that you can use a terminal. You won’t be able to avoid it.&lt;/p&gt;
+&lt;p&gt;Time to address the elephant in the room. I suspect some people avoid using terminals because it’s a bit too nerdy for them. But if you’re a software developer, let’s be honest, you’re nerdy enough to use a terminal. You have a certain obligation to understand things at a slightly deeper level than what’s strictly required to get the job done. Web developers need to know something about browsers, and backend developers should have an idea of how databases are architected. So it’s important to be curious enough to explore things, even if they’re not perfectly user-friendly.&lt;/p&gt;
+&lt;p&gt;If you build software, you will make your life easier by learning how to use terminals. That doesn’t mean they have to be a constant part of your workflow. But if you put in bits of time here and there to experiment and learn, it’ll gradually feel more comfortable. And when you &lt;em&gt;need&lt;/em&gt; to set up a Docker build script or diagnose an ailing VM, you’ll have the confidence to use what you know and figure out the rest. Heck, you might even start to enjoy it!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Voice Tech Enters a New Phase: Summary of Alexa Conference 2019]]></title><description><![CDATA[I was incredibly fortunate to attend Alexa Conference 2019 in Chattanooga, Tennessee this past week. It was fascinating to see so many…]]></description><link>https://wonderley.io/alexa-conference/</link><guid isPermaLink="false">https://wonderley.io/alexa-conference/</guid><pubDate>Sun, 20 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I was incredibly fortunate to attend Alexa Conference 2019 in Chattanooga, Tennessee this past week. It was fascinating to see so many people in one place who are all as excited as I am about the potential of voice and conversational assistants. It would have been impossible to see all the great talks that were given, but I wanted to record my own experience and thoughts on this event.&lt;/p&gt;
+&lt;p&gt;Bret Kinsella of voicebot.ai kicked off the conference with a slew of research and statistics showing the astounding rise of voice. Smart speakers are the fastest growing consumer technology of all time, reaching nearly 50% adoption by some estimates in the U.S. in less than five years. Voice assistants are also popular among older users, who tend to be wary of new technology or have difficulty using it. But the assistive nature of voice seems to be reversing this dynamic, making Alexa an attractive option for users of all ages. As Bret explained, we’ve reached a point where two major players, Amazon and Google, will be difficult to overtake especially in English-speaking markets. But globally there’s still much to be seen. Amazon in particular has a lot of work ahead to support other languages, and Chinese juggernauts Baidu, Alibaba and Tencent all have virtual assistants that are rapidly gaining domestic adoption.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2fb0399aaec79b32578fb44d6d4881de/e735c/kinsella.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEFA//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAGE6kumYyX/xAAaEAACAgMAAAAAAAAAAAAAAAABAhARAAQS/9oACAEBAAEFAqxl5gI6a7G4/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BZ//EABsQAAEEAwAAAAAAAAAAAAAAABAAAQISMUFh/9oACAEBAAY/Ak3RK2sH/8QAGhABAQADAQEAAAAAAAAAAAAAAREAEDEhQf/aAAgBAQABPyESLOYgr4uqvnYw2Qnk1//aAAwDAQACAAMAAAAQFw//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8QMX//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/EGXkf//EABsQAQACAwEBAAAAAAAAAAAAAAERIQAxURDw/9oACAEBAAE/EAIkFvMqjSY58eOllBRGd5R8BBeYkOzP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bret Kinsella&quot;
+        title=&quot;Bret Kinsella&quot;
+        src=&quot;/static/2fb0399aaec79b32578fb44d6d4881de/88218/kinsella.jpg&quot;
+        srcset=&quot;/static/2fb0399aaec79b32578fb44d6d4881de/7237a/kinsella.jpg 148w,
+/static/2fb0399aaec79b32578fb44d6d4881de/0cfdf/kinsella.jpg 295w,
+/static/2fb0399aaec79b32578fb44d6d4881de/88218/kinsella.jpg 590w,
+/static/2fb0399aaec79b32578fb44d6d4881de/77d57/kinsella.jpg 885w,
+/static/2fb0399aaec79b32578fb44d6d4881de/5a917/kinsella.jpg 1180w,
+/static/2fb0399aaec79b32578fb44d6d4881de/e735c/kinsella.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;Bret Kinsella of voicebot.ai shared the latest trends and forecasts for voice technology.&lt;/div&gt;
+&lt;h3&gt;Differentiation Through Personality&lt;/h3&gt;
+&lt;p&gt;Bret explained that we are now in a second phase of the voice assistant market, as evidenced by adoption, competition in the space and the integration of voice tech into existing products. With over 50,000 skills in the Alexa ecosystem, developers need to differentiate their offerings. Several presenters focused on communicating personality through voice to make brand experiences more memorable.&lt;/p&gt;
+&lt;p&gt;In one session, Neha Javalagi and Brielle Nickoloff of WitLingo explained common voice user experience pitfalls through the analogy of being on a first date with the user. This is a useful shorthand because you only get one chance to make a good first impression, which determines whether you’ll get a second date. For example, they explained that skills should respond with brevity while giving the user some guidance on what they can say. And just like in a real conversation, skills should try to rephrase and reprompt to handle errors instead of simply apologizing, and implicitly confirm the user’s request while delivering a response.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/367b7559071f1795cad69e2e8a5b3eba/6e525/witlingo.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABn6rzDUEJf//EABgQAQADAQAAAAAAAAAAAAAAAAIBAxMA/9oACAEBAAEFAo0g1WJvOOAjIFqcL+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAEAAgEFAAAAAAAAAAAAAAABACECEBEiQaH/2gAIAQEABj8CEW4YOju31OML9n//xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhMWFBcf/aAAgBAQABPyFpW+BuKafC2i/6mSeWv7BuWhzI/9oADAMBAAIAAwAAABBzH//EABcRAQADAAAAAAAAAAAAAAAAAAABIYH/2gAIAQMBAT8QuGP/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oACAECAQE/EKmiaf/EAB0QAQACAwADAQAAAAAAAAAAAAEAESExQVGBkfD/2gAIAQEAAT8QIRsQKlHa/alpt9i9PYoWieSCGiujDXcS5Iehp9YkZ2Arn1P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Witlingo&quot;
+        title=&quot;Witlingo&quot;
+        src=&quot;/static/367b7559071f1795cad69e2e8a5b3eba/88218/witlingo.jpg&quot;
+        srcset=&quot;/static/367b7559071f1795cad69e2e8a5b3eba/7237a/witlingo.jpg 148w,
+/static/367b7559071f1795cad69e2e8a5b3eba/0cfdf/witlingo.jpg 295w,
+/static/367b7559071f1795cad69e2e8a5b3eba/88218/witlingo.jpg 590w,
+/static/367b7559071f1795cad69e2e8a5b3eba/77d57/witlingo.jpg 885w,
+/static/367b7559071f1795cad69e2e8a5b3eba/5a917/witlingo.jpg 1180w,
+/static/367b7559071f1795cad69e2e8a5b3eba/6e525/witlingo.jpg 1200w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;
+Neha Javalagi and Brielle Nickoloff roleplayed an interaction to show the importance of creating positive first impressions.&lt;/div&gt;
+&lt;p&gt;Emily Binder of Beetle Moment Marketing, echoed this sentiment in another session, focusing on the importance of thinking about a brand’s unique sound. She gave one example of a skill featuring an old Southern barbeque master who explains how to smoke meats. His sometimes hard-to-understand dialect was clarified by Alexa herself, resulting in a memorable banter between the two. But in addition to all the creative possibilities of voice, Emily emphasized that developers should always find ways to add value for their users.&lt;/p&gt;
+&lt;p&gt;Ben Fisher of Magic &amp;#x26; Co. pointed to a major shift in the marketing industry which voice tech is pushing forward. He told us that marketing campaigns are like a sugar rush: they spark interest for a brief period, but the benefits in consumer awareness don’t last. In comparison with a marketing campaign, an Alexa skill is cheap to build, and allows marketers to engage their targets in more interactive and potentially long-term ways. Because of this, he thinks skills will force marketers to be less content-driven, and more product-driven. While I don’t think this trend will spell the end of content marketing by any means, it’ll be exciting to see how new content becomes more interactive and productized as voice continues to be adopted. And let’s not forget that conversational assistants can be a great way of allowing existing content to be effectively used long after it’s created.&lt;/p&gt;
+&lt;h3&gt;Differentiation Through Depth&lt;/h3&gt;
+&lt;p&gt;As important as marketing and branding is in the voice space, it’s equally important to think about how voice services can solve challenging domain-specific problems. A great example came from Dr. Sandhya Pruthi of the Mayo Clinic, who presented a skill that provides on-demand first aid assistance. Content is organized by topic, which allows the skill to provide relevant information to users based on their request. Her group made use of existing web content by shortening that content significantly to make it appropriate for voice.&lt;/p&gt;
+&lt;p&gt;Noelle LaCharite of Microsoft showed off the analytics capabilities of Azure. She demoed how you can ingest data — in her example, tens of thousands of documents about the JFK assassination — into the cloud. The result was a dashboard with a searchable knowledge graph. She then showed off HooverBot, a chatbot which provided facts and documents related to the user’s request. Extrapolating real recordings of J. Edgar Hoover, the bot’s synthesized voice sounded very much like the FBI chief.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c24f6262620598cde38dd2b46bb360e/e735c/lacharite.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHMak0QUL//xAAaEAEBAAIDAAAAAAAAAAAAAAACAQADERIT/9oACAEBAAEFAuchSilNerzzWlM2Jd//xAAXEQADAQAAAAAAAAAAAAAAAAABEBFB/9oACAEDAQE/ATcX/8QAFxEAAwEAAAAAAAAAAAAAAAAAAhARQf/aAAgBAgEBPwEZq//EABgQAAMBAQAAAAAAAAAAAAAAAAABESEx/9oACAEBAAY/AjCMTtIp00//xAAbEAEAAwADAQAAAAAAAAAAAAABABExQVFxkf/aAAgBAQABPyHcvVN7nLD2LlMSFgIKRybfZ//aAAwDAQACAAMAAAAQmz//xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhUf/aAAgBAwEBPxAg6hdbP//EABcRAAMBAAAAAAAAAAAAAAAAAAABIRH/2gAIAQIBAT8QZ3UHmw//xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMVFBsfD/2gAIAQEAAT8QaO+veGzRXJPOSKEXQcYYMyabHs4xK4Eru/GQkLxNUz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Noelle LaCharite&quot;
+        title=&quot;Noelle LaCharite&quot;
+        src=&quot;/static/6c24f6262620598cde38dd2b46bb360e/88218/lacharite.jpg&quot;
+        srcset=&quot;/static/6c24f6262620598cde38dd2b46bb360e/7237a/lacharite.jpg 148w,
+/static/6c24f6262620598cde38dd2b46bb360e/0cfdf/lacharite.jpg 295w,
+/static/6c24f6262620598cde38dd2b46bb360e/88218/lacharite.jpg 590w,
+/static/6c24f6262620598cde38dd2b46bb360e/77d57/lacharite.jpg 885w,
+/static/6c24f6262620598cde38dd2b46bb360e/5a917/lacharite.jpg 1180w,
+/static/6c24f6262620598cde38dd2b46bb360e/e735c/lacharite.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;Noelle LaCharite shared the analytic and conversational capabilities of Azure.&lt;/div&gt;
+&lt;p&gt;With the possibilities of conversational assistants beginning to mature in a variety of domains, there remains the question of how to make sure users get the most out of what’s available. Katie McMahon of SoundHound presented the capabilities of the Hound platform, which includes being able to parse complex requests which would normally be difficult for an assistant to understand. But she went on to explain that despite the power of this functionality, users often don’t discover it. The result is an apparent paradox: Users don’t know about the exceptional experience, and they’re conditioned to expect the opposite, so they don’t try to interact with the assistant in a truly conversational way.&lt;/p&gt;
+&lt;p&gt;Using conversational assistants to access deep knowledge domains is a problem I’m particularly interested in. If you want to build a skill that’s an expert at something, you end up running into the same kinds of problems: It’s challenging to represent knowledge and content, connect a user request with something that’s useful, and provide interactive dialogs that feel like a conversation. As the developer of the Smash Aid skill, I’m wrestling with these problems, too. I discussed some of the lessons I’ve learned so far in a talk which can be found &lt;a href=&quot;https://www.youtube.com/watch?v=oAmobFK09pU&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Technology and Tooling&lt;/h3&gt;
+&lt;p&gt;Amazon’s own Paul Cutsinger gave an overview of what’s new in the Alexa ecosystem, pointing out that it’s easy for devs to miss new features and tools once they have a way of doing things. A few highlights were the Alexa Skills Kit Command Line Interface (ASK CLI) and the numerous options for monetization in skills, including Amazon Pay, one-time purchase, subscriptions and consumables.&lt;/p&gt;
+&lt;p&gt;I particularly appreciated several sessions that focused on development tips and best practices. Emerson Sklar of Applause honed in on a few common issues. As skills get more complex, intent recognition gets harder, and small changes to the interaction model can lead to drastic user experience changes. Further, a failed voice experience can negatively impact brand perception. All this requires developers to be creative in solving recognition problems and perform comprehensive testing, including dialog verification, functional testing and exploratory feedback. Shanthan Kesharaju of Sermo Labs stressed the importance of taking advantage of AWS infrastructure, such as building fast, responsive lambda functions and making use of Cloudwatch for monitoring and alerts. Finally, Tahsim Ahmed reviewed several visual development tools for building skills without code. This is a great option for creators who are less technical, want to take a higher level approach or don’t want to double their effort to support other platforms such as Google Assistant.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e4ee9ec70a97025be178bc6a076559ce/6e525/battle.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAeI832WUYqf/xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIRIRP/2gAIAQEAAQUCstminnWI3v8A/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bp//EABkRAAIDAQAAAAAAAAAAAAAAAAACARESMf/aAAgBAgEBPwHRDLXT/8QAGhAAAgIDAAAAAAAAAAAAAAAAABEBECExkf/aAAgBAQAGPwK9CUcMH//EABoQAQACAwEAAAAAAAAAAAAAAAEAESExQZH/2gAIAQEAAT8hEag8qBDh5CnIK29Q1qxfZ//aAAwDAQACAAMAAAAQ69//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxAwOy7v/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxACnbI2f//EABoQAQEBAQEBAQAAAAAAAAAAAAERADEhcZH/2gAIAQEAAT8Q95SbjNJxMgtP3FirEWfeYM0PaKRzFbtJDZfm/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Startup Battle&quot;
+        title=&quot;Startup Battle&quot;
+        src=&quot;/static/e4ee9ec70a97025be178bc6a076559ce/88218/battle.jpg&quot;
+        srcset=&quot;/static/e4ee9ec70a97025be178bc6a076559ce/7237a/battle.jpg 148w,
+/static/e4ee9ec70a97025be178bc6a076559ce/0cfdf/battle.jpg 295w,
+/static/e4ee9ec70a97025be178bc6a076559ce/88218/battle.jpg 590w,
+/static/e4ee9ec70a97025be178bc6a076559ce/77d57/battle.jpg 885w,
+/static/e4ee9ec70a97025be178bc6a076559ce/5a917/battle.jpg 1180w,
+/static/e4ee9ec70a97025be178bc6a076559ce/6e525/battle.jpg 1200w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;The judges and participants of the startup battle participants gather on the stage. Left to right: Judy Mod (Innovations Domain), Patrick Givens (VaynerMedia), Rodrigo Prudencio (Alexa Fund), presenters from #250, SonicCloud, Virtual Concierge Service, Voice First Tech, ConverSight.AI, event organizer Bradley Metrock.&lt;/div&gt;
+&lt;p&gt;The Alexa Conference even featured a startup battle: Five companies were given five minutes each to give their pitch. Each startup had a compelling angle, but in the end the award went to SonicCloud. Their app improves users’ hearing by amplifying sound based on a pitch-specific “Hearing Fingerprint.” Apparently a big improvement over hearing aids, it feels like one of those things that’s obvious in retrospect — often the mark of a breakout technology.&lt;/p&gt;
+&lt;h3&gt;Storytelling and The Voice Community&lt;/h3&gt;
+&lt;p&gt;The event was keynoted by Kesha Williams of Chick-Fil-A, who spoke about how Alexa helped her to find her own voice. Frustrated by years in management, she got back in touch with her love for technology when she created Live, Plan, Eat, a time-saving Alexa skill for meal planning. Kesha acknowledged the challenges that women and minorities face due to bias in tech, but insisted that we can improve these conditions by setting an example for others and spreading awareness of what’s possible to achieve.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d1aa3b3c050ead8d2e41776301b99767/6e525/williams.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/aAAwDAQACEAMQAAAB4U2e85x5VmDMQl4gcP/EABsQAQACAgMAAAAAAAAAAAAAAAECEgARAxAg/9oACAEBAAEFAu9bXjq4MbXGanj/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARYf/aAAgBAwEBPwFFmx//xAAZEQEBAQADAAAAAAAAAAAAAAABAAIDBCH/2gAIAQIBAT8BY42dL5HY2X//xAAbEAACAQUAAAAAAAAAAAAAAAAAERABIDFhof/aAAgBAQAGPwKUUhvhozZ//8QAHBAAAgMBAAMAAAAAAAAAAAAAAAERIUExEHGB/9oACAEBAAE/ITSxPA6PsJypopCeWRIuWsSSN/B56Fzx/9oADAMBAAIAAwAAABD3F/P/xAAYEQADAQEAAAAAAAAAAAAAAAAAARExUf/aAAgBAwEBPxDUGK70RH//xAAYEQEBAQEBAAAAAAAAAAAAAAABABExQf/aAAgBAgEBPxAoD5IBsRcILDL/xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFhgZGhwf/aAAgBAQABPxAUlvhO0MBaagI8nKdyBgTSEbzNhXUxne2rXUHiOQvsJAe8qf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Kesha Williams&quot;
+        title=&quot;Kesha Williams&quot;
+        src=&quot;/static/d1aa3b3c050ead8d2e41776301b99767/88218/williams.jpg&quot;
+        srcset=&quot;/static/d1aa3b3c050ead8d2e41776301b99767/7237a/williams.jpg 148w,
+/static/d1aa3b3c050ead8d2e41776301b99767/0cfdf/williams.jpg 295w,
+/static/d1aa3b3c050ead8d2e41776301b99767/88218/williams.jpg 590w,
+/static/d1aa3b3c050ead8d2e41776301b99767/77d57/williams.jpg 885w,
+/static/d1aa3b3c050ead8d2e41776301b99767/5a917/williams.jpg 1180w,
+/static/d1aa3b3c050ead8d2e41776301b99767/6e525/williams.jpg 1200w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;
+Kesha Williams describes how she reflects on her own past successes to overcome self-doubt.&lt;/div&gt;
+&lt;p&gt;For me, this message of inclusivity and humanizing technology was fitting for the voice community in particular. Unlike many technology conferences, which are largely populated by developers and technology vendors, The Alexa Conference was equally filled with marketers, storytellers, and business people from manifold industries who were just trying to wrap their heads around how they could use this disruptive, yet uncommonly intuitive technology to create value. And it’s that very intuitiveness that makes voice different: It’s really a way of getting technology out of the way, so we can more easily reach its benefits.&lt;/p&gt;
+&lt;p&gt;In a memorable talk, Brian Roemmele used anthropological evidence to point out that language is humanity’s “first interface.” Not only is it how we first interact with others and begin to think, but it’s what allowed the human species to separate from the others, reason about the past and future and record our own stories for future generations. Brian drew a connection from our species’ origins to something beginning to happen today: We are using language to make technology more human. Brian challenged his audience to consider the possibilities of a virtual assistant that securely stores all of one’s experiences and wisdom, and uses it to assist and advise future generations. He argued that this tool would be the most human of technologies — “the last interface.”&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/68d4f9539b6b6079f749bf81dbdc002f/e735c/roemmele.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGAv/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAUrVRtaonQP/xAAbEAACAgMBAAAAAAAAAAAAAAAAAgERAwQSFP/aAAgBAQABBQLo117SMK1diu6nozQf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAIBBAMAAAAAAAAAAAAAAAABEQIQITEzQZH/2gAIAQEABj8CJc7O/bYqaOVn/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIaExQWH/2gAIAQEAAT8hUMVfronB/LeOlgli3xnA2n//2gAMAwEAAgADAAAAEGDP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxBnIjD/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QoX//xAAdEAEBAQABBQEAAAAAAAAAAAABEQAhQVFhcdHw/9oACAEBAAE/EGCVzrkQI0PWAtHz9MYwE7EMYutnBnhI9Pw3/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Brian Roemmele&quot;
+        title=&quot;Brian Roemmele&quot;
+        src=&quot;/static/68d4f9539b6b6079f749bf81dbdc002f/88218/roemmele.jpg&quot;
+        srcset=&quot;/static/68d4f9539b6b6079f749bf81dbdc002f/7237a/roemmele.jpg 148w,
+/static/68d4f9539b6b6079f749bf81dbdc002f/0cfdf/roemmele.jpg 295w,
+/static/68d4f9539b6b6079f749bf81dbdc002f/88218/roemmele.jpg 590w,
+/static/68d4f9539b6b6079f749bf81dbdc002f/77d57/roemmele.jpg 885w,
+/static/68d4f9539b6b6079f749bf81dbdc002f/5a917/roemmele.jpg 1180w,
+/static/68d4f9539b6b6079f749bf81dbdc002f/e735c/roemmele.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;
+Brian Roemmele explains the connection between language and thought.&lt;/div&gt;
+&lt;p&gt;This is perhaps a bit out there, but then again technology is all about trying to see into the future. If you accept the premise that storytelling is fundamental to what people have always done, something along the lines of Brian’s “YourWisdomKeeper” and “TheIntelligenceAmplifier” is probably inevitable. I hope that it can be built in a way that maintains the privacy and security of this very personal data.&lt;/p&gt;
+&lt;p&gt;But until we get there, we can expect that voice assistants will be a rich new way of telling stories. Nolan Bushnell and Zai Ortiz presented what’s coming from their collaboration X2 Games, which uses Alexa to create interactive movie and game experiences. Their upcoming murder mystery board game, St. Noire, is like a multimedia version of Clue put together by a movie studio design team. As Bushnell put it, we can look forward to “new things, weird things.”&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5a8f1010038ff930b28425418b6472f2/e735c/stnoire.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHjWzjc0LAf/8QAGRAAAgMBAAAAAAAAAAAAAAAAABEBAiET/9oACAEBAAEFAmV05WkeDk//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BqKj/xAAXEAEAAwAAAAAAAAAAAAAAAAAAICEx/9oACAEBAAY/AlQ1/8QAGhABAQADAQEAAAAAAAAAAAAAAQARITFBcf/aAAgBAQABPyHCC51avKyj1Pkk6d//2gAMAwEAAgADAAAAEE8//8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/EHB//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EAgyH//EABkQAQADAQEAAAAAAAAAAAAAAAEAESExUf/aAAgBAQABPxDLLIrLlPWGR161N4nbut5BhCLtosEhxtn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;St. Noire&quot;
+        title=&quot;St. Noire&quot;
+        src=&quot;/static/5a8f1010038ff930b28425418b6472f2/88218/stnoire.jpg&quot;
+        srcset=&quot;/static/5a8f1010038ff930b28425418b6472f2/7237a/stnoire.jpg 148w,
+/static/5a8f1010038ff930b28425418b6472f2/0cfdf/stnoire.jpg 295w,
+/static/5a8f1010038ff930b28425418b6472f2/88218/stnoire.jpg 590w,
+/static/5a8f1010038ff930b28425418b6472f2/77d57/stnoire.jpg 885w,
+/static/5a8f1010038ff930b28425418b6472f2/5a917/stnoire.jpg 1180w,
+/static/5a8f1010038ff930b28425418b6472f2/e735c/stnoire.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;
+Nolan Bushnell and Zai Ortiz describe St. Noire.&lt;/div&gt;
+&lt;p&gt;I was ecstatic to be a part of The Alexa Conference, and I look forward to watching this technology and community grow!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Introducing Smash Aid: An Alexa Skill for Super Smash Bros.]]></title><description><![CDATA[“Becoming comfortable with lengths of time in frames is incredibly important. It’s an absolute necessity.”
+-Masahiro Sakurai, creator of…]]></description><link>https://wonderley.io/smash-aid/</link><guid isPermaLink="false">https://wonderley.io/smash-aid/</guid><pubDate>Wed, 22 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;“Becoming comfortable with lengths of time in frames is incredibly important. It’s an absolute necessity.”
+-Masahiro Sakurai, creator of Super Smash Bros.*&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In competitive Smash, it’s important to improve your understanding of the game so that you can make better decisions. An important factor in how you make these decisions is “frame data”: the characteristics of different moves, especially how fast they are. For example, if your opponent rolls behind you, are any moves quick enough to punish them on reaction?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/05a1c480eb2572dea6c8a4e45378cecc/mario-up-smash.gif&quot; alt=&quot;Mario Up Smash&quot; title=&quot;Mario Up Smash&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;A simple situation where a player’s knowledge of frame data came in handy.&lt;/div&gt;
+&lt;p&gt;In the above situation, the Mario player noticed that the Luigi player was in a vulnerable position. He waited for him to choose a defensive option, knowing that he could react to a roll with a powerful up smash.&lt;/p&gt;
+&lt;p&gt;Frame data is available online, but sometimes it’s inconvenient to look it up on your phone or laptop. Wouldn’t it be great if you could just ask about a move and have the answer right away?&lt;/p&gt;
+&lt;p&gt;To answer this question, I created Smash Aid. It’s an Alexa skill which tells you frame data for every move in the game. The result is a resource for smashers — whether you’re a veteran or brand new to the game — that’s easy to access and always available.&lt;/p&gt;
+&lt;p&gt;When you interact with Smash Aid, it’ll go something like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/5031da3dd547702451afa56cd92a724d/conv1.gif&quot; alt=&quot;Conversation Part 1&quot; title=&quot;Conversation Part 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/504163f93b0940a80bb527d1ac912ad1/conv2.gif&quot; alt=&quot;Conversation Part 2&quot; title=&quot;Conversation Part 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/74dd6db2c7eefd5b7b4d9a5996c6029b/conv3.gif&quot; alt=&quot;Conversation Part 3&quot; title=&quot;Conversation Part 3&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;A sample interaction.&lt;/div&gt;
+&lt;p&gt;Smash Aid is a work in progress, and it has a lot of room for improvement. It currently only tells you a move’s active frames and when your character can act. For now, there’s no other info like the damage, knockback or angle, and it’s only available for Smash 4. It supports multihits and complex moves with multiple parts, although in some cases the output is probably too long:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/80db42b354954c3e4469fe08b02c7afa/conv4.gif&quot; alt=&quot;Conversation Part 4&quot; title=&quot;Conversation Part 4&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;Alexa describes all the variations of Cloud’s Blade Beam.&lt;/div&gt;
+&lt;p&gt;Okay, that’s way too long to be practical! I’m thinking about getting around this issue by asking the user what part of the move they want to know about. But for now, this gets the point across.&lt;/p&gt;
+&lt;p&gt;My hope is that by making this information more accessible, Smash Aid will allow players of all skill levels to get more out of the game! I plan to add new features based on community feedback, so try it out and let me know what you think. You can test it out by saying “Alexa, enable Smash Aid” to your Alexa device or app, or by viewing it in the Alexa Skills Store &lt;a href=&quot;https://www.amazon.com/Lucas-Wonderley-Smash-Aid/dp/B07GB8PJ9F/ref=sr_1_1?s=digital-skills&amp;#x26;ie=UTF8&amp;#x26;qid=1534534625&amp;#x26;sr=1-1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Special thanks to &lt;a href=&quot;http://kuroganehammer.com&quot;&gt;kuroganehammer.com&lt;/a&gt;, which hosts the information used by Smash Aid, and to everyone in the Smash community who spent tons of time making all this information available!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;*The quote at the top of this post is somewhat out of context, as Sakurai was talking about developing games, not playing them. Still, as any competitive Smasher will tell you, the point stands: Frame data is important!&lt;/p&gt;</content:encoded></item></channel></rss>
