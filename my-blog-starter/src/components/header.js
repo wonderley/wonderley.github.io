@@ -14,9 +14,10 @@ const Header = () => {
         </div>
         <div id="name-text">
           <h1>Lucas Wonderley</h1>
+          <h2 id="inline-subheader">Software Developer</h2>
         </div>
         <div id="subheader">
-          <h2>Software Professional</h2>
+          <h2>Software Developer</h2>
         </div>
         <div id="gmail" class="contact-icon">
           <a href="mailto:lucas.r.wonderley@gmail.com">
