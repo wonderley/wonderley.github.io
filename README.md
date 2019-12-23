@@ -1,3 +1,5 @@
+To publish: `gh-pages -d public -b master`
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
