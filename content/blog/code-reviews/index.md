@@ -1,6 +1,8 @@
 ---
 title: "Code reviews"
 date: "2019-11-29"
+twitterUrl: "https://twitter.com/LucasWonderley/status/1209964727222317056"
+devUrl: "https://dev.to/wonderley/code-reviews-1n82"
 ---
 
 It's hard to review code. You'd often much rather keep focusing on your own work. Code reviews break your focus. They also force you to interpret changes without seeing them in action, and without the assistance of an IDE. The result is a high cognitive load (it takes a lot of focus and thought) and a seemingly low payoff (it's someone else's work you're helping push forward, not your own). 
