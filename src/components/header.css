@@ -125,19 +125,6 @@ img {
     user-select: none;
   }
 }
-.contact-icon {
-  text-decoration: none;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-@media (max-width: 767px) {
-  .contact-icon {
-    margin: auto; /* only horizontally center on mobile */
-  }
-}
-.contact-icon > a {
-  box-shadow: none;
-}
 header > h1 {
   font-family: 'Signika', sans-serif;
   font-weight: 700;

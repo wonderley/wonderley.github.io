@@ -1,6 +1,6 @@
 import React from "react"
-import { Link } from "gatsby"
 import Header from "./header"
+import HomeLink from "./home-link"
 
 import { rhythm } from "../utils/typography"
 
@@ -15,23 +15,7 @@ class Layout extends React.Component {
     } else {
       header = (
         <header>
-          <h3
-            style={{
-              fontFamily: `Montserrat, sans-serif`,
-              marginTop: 0,
-            }}
-          >
-            <Link
-              style={{
-                boxShadow: `none`,
-                textDecoration: `none`,
-                color: `#007acc`,
-              }}
-              to={`/`}
-            >
-              {"wonderley.io"}
-            </Link>
-          </h3>
+          <HomeLink/>
         </header>
       )
     }

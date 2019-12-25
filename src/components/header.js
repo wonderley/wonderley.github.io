@@ -1,4 +1,5 @@
 import "./header.css";
+import "./icons.css";
 import React from "react"
 import gmail from "../../content/assets/gmail.png"
 import twitter from "../../content/assets/twitter.png"

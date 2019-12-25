@@ -1,9 +1,12 @@
 import React from "react"
+import "../components/icons.css"
 import { Link, graphql } from "gatsby"
+import HomeLink from "../components/home-link"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import twitter from "../../content/assets/twitter.png"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -44,9 +47,15 @@ class BlogPostTemplate extends React.Component {
             }}
           />
           <footer>
+            <h3>Comments, questions, criticism?</h3><br/>
+            Click to <b>discuss this post!</b><br/>
+            <div class="contact-icon"><a href="https://twitter.com/LucasWonderley" target="_blank"><img src={twitter}/></a></div><br/>
+            <hr style={{
+                marginBottom: rhythm(1),
+              }}/>
+            Return to <HomeLink/><br/><br/>
           </footer>
         </article>
-
         <nav>
           <ul
             style={{
