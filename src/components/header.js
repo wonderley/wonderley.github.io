@@ -1,5 +1,5 @@
 import "./header.css";
-import "./icons.css";
+import "./site.css";
 import React from "react"
 import gmail from "../../content/assets/gmail.png"
 import twitter from "../../content/assets/twitter.png"
@@ -20,22 +20,22 @@ const Header = () => {
         <div id="subheader">
           <h2>Software Developer</h2>
         </div>
-        <div id="gmail" class="contact-icon">
+        <div id="gmail" class="icon icon-center-mobile">
           <a href="mailto:lucas.r.wonderley@gmail.com">
             <img src={gmail}/>
           </a>
         </div>
-        <div id="twitter" class="contact-icon">
+        <div id="twitter" class="icon icon-center-mobile">
           <a href="https://twitter.com/LucasWonderley" target="_blank">
             <img src={twitter}/>
           </a>
         </div>
-        <div id="linkedin" class="contact-icon">
+        <div id="linkedin" class="icon icon-center-mobile">
           <a href="https://linkedin.com/in/lucas-wonderley-660474b/" target="_blank">
             <img src={linkedin}/>
           </a>
         </div>
-        <div id="github" class="contact-icon">
+        <div id="github" class="icon icon-center-mobile">
           <a href="https://github.com/wonderley" target="_blank">
             <img src={github}/>
           </a>

@@ -1,0 +1,16 @@
+.icon {
+  text-decoration: none;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.icon > a {
+  box-shadow: none;
+}
+@media (max-width: 767px) {
+  .icon-center-mobile {
+    margin: auto; /* only horizontally center on mobile */
+  }
+}
+.comment-icon {
+  margin-right: 10px;
+}

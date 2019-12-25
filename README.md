@@ -1,4 +1,4 @@
-To publish: `gh-pages -d public -b master`
+To publish: `rm -r public && gatsby build && cp CNAME public && gh-pages -d public -b master`
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
