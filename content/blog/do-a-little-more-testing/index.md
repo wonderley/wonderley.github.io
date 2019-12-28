@@ -1,13 +1,14 @@
 ---
-title: "Do a little more testing!"
-date: "2019-11-14"
----
+title: Do a little more testing!
+date: 2019-11-14
+twitterUrl: https://twitter.com/LucasWonderley/status/1211050125428215809
 
+---
 Even when you’re confident in your work, add a bit of extra caution for good measure.
 
 When you think you have a fix, don't say so right away. Verify more than you want to.
 
-If youre not careful, you can make mistakes and cost everyone’s time. It won’t be a huge deal, but it’ll be annoying and a little embarrassing.
+If you're not careful, you can make mistakes and cost everyone’s time. It won’t be a huge deal, but it’ll be annoying and a little embarrassing.
 
 You'll want to show all your coworkers what a great engineer you are. You can see the whole thing end to end - it works, it makes sense! Isn't that great? Ship it!
 
