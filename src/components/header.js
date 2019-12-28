@@ -26,17 +26,17 @@ const Header = () => {
           </a>
         </div>
         <div id="twitter" class="icon icon-center-mobile">
-          <a href="https://twitter.com/LucasWonderley" target="_blank">
+          <a href="https://twitter.com/LucasWonderley" target="_blank" rel="noopener noreferrer">
             <img src={twitter}/>
           </a>
         </div>
         <div id="linkedin" class="icon icon-center-mobile">
-          <a href="https://linkedin.com/in/lucas-wonderley-660474b/" target="_blank">
+          <a href="https://linkedin.com/in/lucas-wonderley-660474b/" target="_blank" rel="noopener noreferrer">
             <img src={linkedin}/>
           </a>
         </div>
         <div id="github" class="icon icon-center-mobile">
-          <a href="https://github.com/wonderley" target="_blank">
+          <a href="https://github.com/wonderley" target="_blank" rel="noopener noreferrer">
             <img src={github}/>
           </a>
         </div>
