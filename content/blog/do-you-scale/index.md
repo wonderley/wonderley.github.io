@@ -2,6 +2,7 @@
 title: Do you scale?
 date: 2019-06-12
 twitterUrl: https://twitter.com/LucasWonderley/status/1138673163464794112
+devUrl: https://dev.to/wonderley/do-you-scale-161h
 
 ---
 As an engineer, “You don’t scale.”
