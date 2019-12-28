@@ -1,6 +1,8 @@
 ---
-title: "Don’t be arrogant. Be humble and teach."
-date: "2019-04-12"
+title: Don’t be arrogant. Be humble and teach.
+date: 2019-04-12
+twitterUrl: https://twitter.com/LucasWonderley/status/1116815973041020934
+
 ---
 We shouldn't be arrogant about things we understand that others don’t.
 
