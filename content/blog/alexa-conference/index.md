@@ -1,6 +1,8 @@
 ---
-title: "Voice Tech Enters a New Phase: Summary of Alexa Conference 2019"
-date: "2019-01-20"
+title: 'Voice Tech Enters a New Phase: Summary of Alexa Conference 2019'
+date: 2019-01-20
+twitterUrl: https://twitter.com/LucasWonderley/status/1087365123155607553
+
 ---
 I was incredibly fortunate to attend Alexa Conference 2019 in Chattanooga, Tennessee this past week. It was fascinating to see so many people in one place who are all as excited as I am about the potential of voice and conversational assistants. It would have been impossible to see all the great talks that were given, but I wanted to record my own experience and thoughts on this event.
 
