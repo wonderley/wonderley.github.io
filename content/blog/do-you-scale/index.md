@@ -1,8 +1,9 @@
 ---
-title: "Do you scale?"
-date: "2019-06-12"
----
+title: Do you scale?
+date: 2019-06-12
+twitterUrl: https://twitter.com/LucasWonderley/status/1138673163464794112
 
+---
 As an engineer, “You don’t scale.”
 
 A very senior manager once told me this as career advice. The point was, to advance your career, you will need to manage people and climb the corporate ladder. You can only write so much code in a day, so your impact has an upper limit. Is this true?
