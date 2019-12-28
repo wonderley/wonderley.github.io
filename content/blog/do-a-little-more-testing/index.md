@@ -2,6 +2,7 @@
 title: Do a little more testing!
 date: 2019-11-14
 twitterUrl: https://twitter.com/LucasWonderley/status/1211050125428215809
+devUrl: https://dev.to/wonderley/do-a-little-more-testing-1bga
 
 ---
 Even when you’re confident in your work, add a bit of extra caution for good measure.
