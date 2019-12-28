@@ -1,6 +1,8 @@
 ---
-title: "Should developers learn to use a terminal?"
-date: "2019-03-20"
+title: Should developers learn to use a terminal?
+date: 2019-03-20
+twitterUrl: https://twitter.com/LucasWonderley/status/1110899366255050752
+
 ---
 At some point early in their career, every software developer is faced with a question.
 
