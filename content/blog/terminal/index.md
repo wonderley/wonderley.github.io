@@ -14,7 +14,7 @@ In 2019, surely we’re past such a crude tool!
 
 There’s no objective answer. But here are a few thoughts.
 
-![Terminal](./Terminal.png "Terminal")
+![Terminal](./Terminal.png)
 
 One reason terminals get a bad rap in some circles is that they have high learning curve. You have to figure out the basics of how to use them in the first place. And unlike a GUI app, which tells you what it can do with buttons and menus, it’s rarely obvious how exactly to use an individual program or utility. Instead of WYSYWIG - what you see is what you get - you may encounter the prickly advice to RTFM - read the f***ing manual! Realistically, you’re more likely to read a bit of the man page and scan for the feature you need, then try it out. But the whole process, and really everything about the terminal, requires a bit of curiosity and initiative.
 
