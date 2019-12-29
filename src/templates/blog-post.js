@@ -13,6 +13,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
+    const footerText = post.frontmatter.footerText || 'Comments, questions, criticism?';
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -47,7 +48,7 @@ class BlogPostTemplate extends React.Component {
             }}
           />
           <footer>
-            <h3>Comments, questions, criticism?</h3><br/>
+            <h3>{footerText}</h3><br/>
             Click to <b>discuss this post!</b><br/>
             <div style={{
               display: "flex",
@@ -122,6 +123,7 @@ export const pageQuery = graphql`
         description
         devUrl
         twitterUrl
+        footerText
       }
     }
   }

@@ -1,8 +1,9 @@
 ---
 date: 2019-12-29T15:13:18Z
-title: How to keep your sanity in the face of tough deadlines
+title: Keeping your sanity in the face of tough deadlines
 twitterUrl: ''
 devUrl: ''
+footerText: How do you deal with tough deadlines?
 
 ---
 When work gets stressful due to deadlines, mistakes and difficult people, your favorite thing can become your prison.

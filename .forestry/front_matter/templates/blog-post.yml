@@ -19,5 +19,8 @@ fields:
 - type: text
   name: devUrl
   label: devUrl
+- type: text
+  name: footerText
+  label: footerText
 pages:
 - content/blog/how-to-keep-your-sanity-in-the-face-of-tough-deadlines.md
