@@ -2,7 +2,7 @@
 date: 2019-12-29T15:13:18Z
 title: Keeping your sanity in the face of tough deadlines
 twitterUrl: ''
-devUrl: ''
+devUrl: 'https://dev.to/wonderley/keeping-your-sanity-in-the-face-of-tough-deadlines-4m9f'
 footerText: How do you deal with tough deadlines?
 
 ---
