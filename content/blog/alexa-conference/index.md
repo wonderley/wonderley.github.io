@@ -8,7 +8,7 @@ I was incredibly fortunate to attend Alexa Conference 2019 in Chattanooga, Tenne
 
 Bret Kinsella of voicebot.ai kicked off the conference with a slew of research and statistics showing the astounding rise of voice. Smart speakers are the fastest growing consumer technology of all time, reaching nearly 50% adoption by some estimates in the U.S. in less than five years. Voice assistants are also popular among older users, who tend to be wary of new technology or have difficulty using it. But the assistive nature of voice seems to be reversing this dynamic, making Alexa an attractive option for users of all ages. As Bret explained, we’ve reached a point where two major players, Amazon and Google, will be difficult to overtake especially in English-speaking markets. But globally there’s still much to be seen. Amazon in particular has a lot of work ahead to support other languages, and Chinese juggernauts Baidu, Alibaba and Tencent all have virtual assistants that are rapidly gaining domestic adoption.
 
-![Bret Kinsella](/kinsella.jpeg "Bret Kinsella")
+![Bret Kinsella](./kinsella.jpeg "Bret Kinsella")
 <div class="caption">Bret Kinsella of voicebot.ai shared the latest trends and forecasts for voice technology.</div>
 
 ### Differentiation Through Personality
@@ -16,7 +16,7 @@ Bret explained that we are now in a second phase of the voice assistant market, 
 
 In one session, Neha Javalagi and Brielle Nickoloff of WitLingo explained common voice user experience pitfalls through the analogy of being on a first date with the user. This is a useful shorthand because you only get one chance to make a good first impression, which determines whether you’ll get a second date. For example, they explained that skills should respond with brevity while giving the user some guidance on what they can say. And just like in a real conversation, skills should try to rephrase and reprompt to handle errors instead of simply apologizing, and implicitly confirm the user’s request while delivering a response.
 
-![Witlingo](/witlingo.jpeg "Witlingo")
+![Witlingo](./witlingo.jpeg "Witlingo")
 <div class="caption">
 Neha Javalagi and Brielle Nickoloff roleplayed an interaction to show the importance of creating positive first impressions.</div>
 
@@ -29,7 +29,7 @@ As important as marketing and branding is in the voice space, it’s equally imp
 
 Noelle LaCharite of Microsoft showed off the analytics capabilities of Azure. She demoed how you can ingest data — in her example, tens of thousands of documents about the JFK assassination — into the cloud. The result was a dashboard with a searchable knowledge graph. She then showed off HooverBot, a chatbot which provided facts and documents related to the user’s request. Extrapolating real recordings of J. Edgar Hoover, the bot’s synthesized voice sounded very much like the FBI chief.
 
-![Noelle LaCharite](/lacharite.jpeg "Noelle LaCharite")
+![Noelle LaCharite](./lacharite.jpeg "Noelle LaCharite")
 <div class="caption">Noelle LaCharite shared the analytic and conversational capabilities of Azure.</div>
 
 With the possibilities of conversational assistants beginning to mature in a variety of domains, there remains the question of how to make sure users get the most out of what’s available. Katie McMahon of SoundHound presented the capabilities of the Hound platform, which includes being able to parse complex requests which would normally be difficult for an assistant to understand. But she went on to explain that despite the power of this functionality, users often don’t discover it. The result is an apparent paradox: Users don’t know about the exceptional experience, and they’re conditioned to expect the opposite, so they don’t try to interact with the assistant in a truly conversational way.
@@ -41,7 +41,7 @@ Amazon’s own Paul Cutsinger gave an overview of what’s new in the Alexa ecos
 
 I particularly appreciated several sessions that focused on development tips and best practices. Emerson Sklar of Applause honed in on a few common issues. As skills get more complex, intent recognition gets harder, and small changes to the interaction model can lead to drastic user experience changes. Further, a failed voice experience can negatively impact brand perception. All this requires developers to be creative in solving recognition problems and perform comprehensive testing, including dialog verification, functional testing and exploratory feedback. Shanthan Kesharaju of Sermo Labs stressed the importance of taking advantage of AWS infrastructure, such as building fast, responsive lambda functions and making use of Cloudwatch for monitoring and alerts. Finally, Tahsim Ahmed reviewed several visual development tools for building skills without code. This is a great option for creators who are less technical, want to take a higher level approach or don’t want to double their effort to support other platforms such as Google Assistant.
 
-![Startup Battle](/battle.jpeg "Startup Battle")
+![Startup Battle](./battle.jpeg "Startup Battle")
 <div class="caption">The judges and participants of the startup battle participants gather on the stage. Left to right: Judy Mod (Innovations Domain), Patrick Givens (VaynerMedia), Rodrigo Prudencio (Alexa Fund), presenters from #250, SonicCloud, Virtual Concierge Service, Voice First Tech, ConverSight.AI, event organizer Bradley Metrock.</div>
 
 The Alexa Conference even featured a startup battle: Five companies were given five minutes each to give their pitch. Each startup had a compelling angle, but in the end the award went to SonicCloud. Their app improves users’ hearing by amplifying sound based on a pitch-specific “Hearing Fingerprint.” Apparently a big improvement over hearing aids, it feels like one of those things that’s obvious in retrospect — often the mark of a breakout technology.
@@ -49,7 +49,7 @@ The Alexa Conference even featured a startup battle: Five companies were given f
 ### Storytelling and The Voice Community
 The event was keynoted by Kesha Williams of Chick-Fil-A, who spoke about how Alexa helped her to find her own voice. Frustrated by years in management, she got back in touch with her love for technology when she created Live, Plan, Eat, a time-saving Alexa skill for meal planning. Kesha acknowledged the challenges that women and minorities face due to bias in tech, but insisted that we can improve these conditions by setting an example for others and spreading awareness of what’s possible to achieve.
 
-![Kesha Williams](/williams.jpeg "Kesha Williams")
+![Kesha Williams](./williams.jpeg "Kesha Williams")
 <div class="caption">
 Kesha Williams describes how she reflects on her own past successes to overcome self-doubt.</div>
 
@@ -57,7 +57,7 @@ For me, this message of inclusivity and humanizing technology was fitting for th
 
 In a memorable talk, Brian Roemmele used anthropological evidence to point out that language is humanity’s “first interface.” Not only is it how we first interact with others and begin to think, but it’s what allowed the human species to separate from the others, reason about the past and future and record our own stories for future generations. Brian drew a connection from our species’ origins to something beginning to happen today: We are using language to make technology more human. Brian challenged his audience to consider the possibilities of a virtual assistant that securely stores all of one’s experiences and wisdom, and uses it to assist and advise future generations. He argued that this tool would be the most human of technologies — “the last interface.”
 
-![Brian Roemmele](/roemmele.jpeg "Brian Roemmele")
+![Brian Roemmele](./roemmele.jpeg "Brian Roemmele")
 <div class="caption">
 Brian Roemmele explains the connection between language and thought.</div>
 
@@ -65,7 +65,7 @@ This is perhaps a bit out there, but then again technology is all about trying t
 
 But until we get there, we can expect that voice assistants will be a rich new way of telling stories. Nolan Bushnell and Zai Ortiz presented what’s coming from their collaboration X2 Games, which uses Alexa to create interactive movie and game experiences. Their upcoming murder mystery board game, St. Noire, is like a multimedia version of Clue put together by a movie studio design team. As Bushnell put it, we can look forward to “new things, weird things.”
 
-![St. Noire](/stnoire.jpeg "St. Noire")
+![St. Noire](./stnoire.jpeg "St. Noire")
 <div class="caption">
 Nolan Bushnell and Zai Ortiz describe St. Noire.</div>
 

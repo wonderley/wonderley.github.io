@@ -10,7 +10,7 @@ twitterUrl: https://twitter.com/LucasWonderley/status/1036338037318402049
 
 In competitive Smash, it’s important to improve your understanding of the game so that you can make better decisions. An important factor in how you make these decisions is “frame data”: the characteristics of different moves, especially how fast they are. For example, if your opponent rolls behind you, are any moves quick enough to punish them on reaction?
 
-![Mario Up Smash](/mario-up-smash.gif "Mario Up Smash")
+![Mario Up Smash](./mario-up-smash.gif "Mario Up Smash")
 <div class="caption">A simple situation where a player’s knowledge of frame data came in handy.</div>
 
 In the above situation, the Mario player noticed that the Luigi player was in a vulnerable position. He waited for him to choose a defensive option, knowing that he could react to a roll with a powerful up smash.
@@ -21,17 +21,17 @@ To answer this question, I created Smash Aid. It’s an Alexa skill which tells 
 
 When you interact with Smash Aid, it’ll go something like this:
 
-![Conversation Part 1](/conv1.gif "Conversation Part 1")
+![Conversation Part 1](./conv1.gif "Conversation Part 1")
 
-![Conversation Part 2](/conv2.gif "Conversation Part 2")
+![Conversation Part 2](./conv2.gif "Conversation Part 2")
 
-![Conversation Part 3](/conv3.gif "Conversation Part 3")
+![Conversation Part 3](./conv3.gif "Conversation Part 3")
 <div class="caption">A sample interaction.</div>
 
 
 Smash Aid is a work in progress, and it has a lot of room for improvement. It currently only tells you a move’s active frames and when your character can act. For now, there’s no other info like the damage, knockback or angle, and it’s only available for Smash 4. It supports multihits and complex moves with multiple parts, although in some cases the output is probably too long:
 
-![Conversation Part 4](/conv4.gif "Conversation Part 4")
+![Conversation Part 4](./conv4.gif "Conversation Part 4")
 <div class="caption">Alexa describes all the variations of Cloud’s Blade Beam.</div>
 
 Okay, that’s way too long to be practical! I’m thinking about getting around this issue by asking the user what part of the move they want to know about. But for now, this gets the point across.
