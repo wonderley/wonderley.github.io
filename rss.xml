@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lucas Wonderley]]></title><description><![CDATA[Lucas Wonderley's personal website]]></description><link>https://wonderley.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Dec 2019 16:39:58 GMT</lastBuildDate><item><title><![CDATA[Keeping your sanity in the face of tough deadlines]]></title><description><![CDATA[When work gets stressful due to deadlines, mistakes and difficult people, your favorite thing can become your prison. You love to code, but…]]></description><link>https://wonderley.io/keeping-your-sanity-in-the-face-of-tough-deadlines/</link><guid isPermaLink="false">https://wonderley.io/keeping-your-sanity-in-the-face-of-tough-deadlines/</guid><pubDate>Sun, 29 Dec 2019 15:13:18 GMT</pubDate><content:encoded>&lt;p&gt;When work gets stressful due to deadlines, mistakes and difficult people, your favorite thing can become your prison.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lucas Wonderley]]></title><description><![CDATA[Lucas Wonderley's personal website]]></description><link>https://wonderley.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jan 2020 01:25:29 GMT</lastBuildDate><item><title><![CDATA[Building a website is hard: Discovering the JAMStack]]></title><description><![CDATA[Building a website is surprisingly hard. As a developer, naturally I scoff at the idea of using a popular tool like Wix or Squarespace. I…]]></description><link>https://wonderley.io/building-a-website/</link><guid isPermaLink="false">https://wonderley.io/building-a-website/</guid><pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Building a website is surprisingly hard.&lt;/p&gt;
+&lt;p&gt;As a developer, naturally I scoff at the idea of using a popular tool like Wix or Squarespace. I can build it myself, and I’ll have so much more control!&lt;/p&gt;
+&lt;p&gt;My background’s in mobile, not frontend development, so my first real foray into building a full website was only a few years ago.&lt;/p&gt;
+&lt;p&gt;I was getting married, and I naturally took responsibility for building our wedding website.&lt;/p&gt;
+&lt;p&gt;It turned out to be a bit trickier than I expected. I’ll spare you the details, but I gained a newfound respect for how complex, powerful and occasionally bewildering CSS can be.&lt;/p&gt;
+&lt;p&gt;I’ve learned a bit more about frontend development since then. I love how React lets you combine the best parts of JavaScript and HTML and you modularize the result, and how it handles the complexity of rendering optimization. I also discovered &lt;a href=&quot;https://www.gatsbyjs.org&quot;&gt;Gatsby&lt;/a&gt;, which makes it easy to work with all sorts of data types and resources with a GraphQL querying layer.&lt;/p&gt;
+&lt;p&gt;Before Gatsby, I learned that you can create a GitHub-hosted blog using another tool called Jekyll. It’s amazing because you can customize the site’s pages and templates as needed, and simply write your blog posts in Markdown. Push a new Markdown file to the repository, and you just published a new blog post!&lt;/p&gt;
+&lt;p&gt;Gatsby elevates this story by letting you use React to build your UI. Its integration with GraphQL lets you pull in text from Markdown. And you can use the same querying interface to pull in data and resources, whether it’s from local files or remote APIs.&lt;/p&gt;
+&lt;p&gt;The set of tools for building static sites that are also interactive and dynamic has become known as the &lt;a href=&quot;https://jamstack.org&quot;&gt;JAMStack&lt;/a&gt;. With JavaScript, APIs and Markdown, you can build a modern, lightning-fast site that lives entirely in the browser.&lt;/p&gt;
+&lt;p&gt;And then there’s &lt;a href=&quot;https://forestry.io&quot;&gt;Forestry&lt;/a&gt;: A UI layer for content creators that makes all this Markdown editing feel like it’s happening in a real CMS, similar to writing content in WordPress.&lt;/p&gt;
+&lt;p&gt;Yet even with all this, there’s a huge chasm between what we can hack together as developers and what you can do with Squarespace or Wix. There’s no guarantee that it’ll look good. And you can’t edit stuff in place and see what it feels like. If you’re a designer, or you’re just attempting to think like one, it’s helpful to see what content looks like in real time.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d55465b714dc012d7eb47b05119c31c2/6864c/diagram.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.3%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB7UlEQVQoz22QW3PSUBSFT3KSkxNCgAbKpTQkJGAhtAEavFRbHUedvjk6juOLr776oD/A0fF/LxcJUpz68M1e2Zd19o7Q8jFcosRD9IJXyKbvYYg1c4/K/D3MKj749hrTL2/giie7WhWFti6hrQK2sUa7cYXl+jOi4ic6J5/gGDlrm7K+RxZwGc9/3SL7fgttFP/UhbZzuGoJx8px5BfIFh8we/obvfAjlDmHtpfY9hziSM7YKxovS31YE5YxRRzdoCjeIh7dIImfQ4iED5yR2f+xZ1Csb6l0xXZGSCPGcFDg5Yt3OO6skCbX/IcjNqZQJcmOlANpmb+DeSsp41+4YYi6EyHupvBqU0yTK244gJIj2GZ4D0VMIo1TyN33XW3EDWUXJhGiDd+PkKYb6g5sewDL6pPeHkUEmTsDfG1FCPWQBqwRuUNI6wjSCmCYLdQbJ4jG5zR0SZP4pLHD38fMDvCjP8HAZI/R4mMBl6oQlmzSuQnD8OF5XWw214iiOZJkgSRdIB7PEcUzjJNKj8cZoq0enWFVPONVfc7WaVr58OQ6DvG8gE3HqNUCDE8T5MsCi8UKk0mGi4tL5HmBMJxAuwHawRBK0cjczvrlPA1dCs2zNUximIpnEKGoNZTjl0jbY2xU2vLYo/c9pqzt+QNMWw/OeNsX/AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;TinaCMS Diagram&quot;
+        title=&quot;TinaCMS Diagram&quot;
+        src=&quot;/static/d55465b714dc012d7eb47b05119c31c2/799d3/diagram.png&quot;
+        srcset=&quot;/static/d55465b714dc012d7eb47b05119c31c2/00d96/diagram.png 148w,
+/static/d55465b714dc012d7eb47b05119c31c2/0b23c/diagram.png 295w,
+/static/d55465b714dc012d7eb47b05119c31c2/799d3/diagram.png 590w,
+/static/d55465b714dc012d7eb47b05119c31c2/2a3d6/diagram.png 885w,
+/static/d55465b714dc012d7eb47b05119c31c2/ae92f/diagram.png 1180w,
+/static/d55465b714dc012d7eb47b05119c31c2/6864c/diagram.png 2000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;Site builders and customizeable CMSs both have tradeoffs that make it hard to build a site that&apos;s both beautiful and interactive.&lt;/div&gt;&lt;br&gt;
+&lt;p&gt;In a &lt;a href=&quot;https://tinacms.org/blog/announcing-tinacms&quot;&gt;recent talk&lt;/a&gt;, Forestry CEO Scott Gallant used the above diagram to show how the Gatsby/Forestry solution can be frustrating for both developers and content creators. As powerful as a code-friendly CMS is for developer productivity, developers need help creating a beautiful design. And creators are likely to struggle with editing code. This makes the Gatsby/Forestry solution a bit frustrating for both developers and content creators. Gallant announced TinaCMS, a new product that attempts to deliver the best of both worlds.&lt;/p&gt;
+&lt;p&gt;For now, we’re still in this awkward position where it feels like building a website is more difficult than it should be. There are probably lot of people who aren’t professional web developers but nevertheless want to go a level deeper than what simple drag-and-drop tools allow today.&lt;/p&gt;
+&lt;p&gt;It’s encouranging, though, to see how the JAMStack is bridging the worlds of using a code-free CMS and of building a site from scratch. Over time, this will empower more people to create original, creative websites, and lead us toward a more innovative and interactive web.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Keeping your sanity in the face of tough deadlines]]></title><description><![CDATA[When work gets stressful due to deadlines, mistakes and difficult people, your favorite thing can become your prison. You love to code, but…]]></description><link>https://wonderley.io/keeping-your-sanity-in-the-face-of-tough-deadlines/</link><guid isPermaLink="false">https://wonderley.io/keeping-your-sanity-in-the-face-of-tough-deadlines/</guid><pubDate>Sun, 29 Dec 2019 15:13:18 GMT</pubDate><content:encoded>&lt;p&gt;When work gets stressful due to deadlines, mistakes and difficult people, your favorite thing can become your prison.&lt;/p&gt;
 &lt;p&gt;You love to code, but suddenly a herculean slog of development and debugging stands between you and basic sanity and well-being. You feel trapped by your own passion.&lt;/p&gt;
 &lt;p&gt;It’s necessary to prioritize your well-being above everything else. If you start to feel work crossing that line, it’s time to take a timeout and a step back.&lt;/p&gt;
 &lt;p&gt;Get in the right head space. Do something else for a while. Read, play, be with the people you love.&lt;/p&gt;
