@@ -2,6 +2,7 @@
 title: 'Building a website is hard: Discovering the JAMStack'
 date: 2020-01-20
 description: "It's hard to build a beautiful and interactive website. That may change."
+twitterUrl: https://twitter.com/LucasWonderley/status/1219440712615452672
 ---
 
 ![Gatsby diagram](./gatsby.png)
