@@ -6,15 +6,18 @@ description: "It's hard to build a beautiful and interactive website. That may c
 
 Building a website is surprisingly hard.
 
-As a developer, naturally I scoff at the idea of using a popular tool like Wix or Squarespace. I can build it myself, and I'll have so much more control!
+As a developer, I tend to scoff at the idea of using a popular tool like Wix or Squarespace. I can build it myself, and I'll have so much more control!
 
 My background's in mobile, not frontend development, so my first real foray into building a full website was only a few years ago.
 
-I was getting married, and I naturally took responsibility for building our wedding website.
+I was getting married. Naturally, I took responsibility for building our wedding website.
 
 It turned out to be a bit trickier than I expected. I'll spare you the details, but I gained a newfound respect for how complex, powerful and occasionally bewildering CSS can be.
 
 I've learned a bit more about frontend development since then. I love how React lets you combine the best parts of JavaScript and HTML and you modularize the result, and how it handles the complexity of rendering optimization. I also discovered [Gatsby](https://www.gatsbyjs.org), which makes it easy to work with all sorts of data types and resources with a GraphQL querying layer.
+
+![Gatsby diagram](./gatsby.png)
+<div class="caption">A visual description of how Gatsby works.</div><br>
 
 Before Gatsby, I learned that you can create a GitHub-hosted blog using another tool called Jekyll. It's amazing because you can customize the site's pages and templates as needed, and simply write your blog posts in Markdown. Push a new Markdown file to the repository, and you just published a new blog post!
 
