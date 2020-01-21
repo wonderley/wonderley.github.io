@@ -4,6 +4,9 @@ date: 2020-01-20
 description: "It's hard to build a beautiful and interactive website. That may change."
 ---
 
+![Gatsby diagram](./gatsby.png)
+<div class="caption">Gatsby combines the flexibility of React, and the data retrieval paradigm of GraphQL with the convenience of writing Markdown and pushing it to GitHub.</div><br>
+
 Building a website is surprisingly hard.
 
 As a developer, I tend to scoff at the idea of using a popular tool like Wix or Squarespace. I can build it myself, and I'll have so much more control!
@@ -15,9 +18,6 @@ I was getting married. Naturally, I took responsibility for building our wedding
 It turned out to be a bit trickier than I expected. I'll spare you the details, but I gained a newfound respect for how complex, powerful and occasionally bewildering CSS can be.
 
 I've learned a bit more about frontend development since then. I love how React lets you combine the best parts of JavaScript and HTML and you modularize the result, and how it handles the complexity of rendering optimization. I also discovered [Gatsby](https://www.gatsbyjs.org), which makes it easy to work with all sorts of data types and resources with a GraphQL querying layer.
-
-![Gatsby diagram](./gatsby.png)
-<div class="caption">A visual description of how Gatsby works.</div><br>
 
 Before Gatsby, I learned that you can create a GitHub-hosted blog using another tool called Jekyll. It's amazing because you can customize the site's pages and templates as needed, and simply write your blog posts in Markdown. Push a new Markdown file to the repository, and you just published a new blog post!
 
