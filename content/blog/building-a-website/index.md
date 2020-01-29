@@ -31,10 +31,10 @@ And then there's [Forestry](https://forestry.io): A UI layer for content creator
 Yet even with all this, there's a huge chasm between what we can hack together as developers and what you can do with Squarespace or Wix. There's no guarantee that it'll look good. And you can't edit stuff in place and see what it feels like. If you're a designer, or you're just attempting to think like one, it's helpful to see what content looks like in real time.
 
 ![TinaCMS Diagram](./diagram.png)
-<div class="caption">Site builders and customizeable CMSs both have tradeoffs that make it hard to build a site that's both beautiful and interactive.</div><br>
+<div class="caption">Site builders and customizable CMSs both have tradeoffs that make it hard to build a site that's both beautiful and interactive.</div><br>
 
 In a [recent talk](https://tinacms.org/blog/announcing-tinacms), Forestry CEO Scott Gallant used the above diagram to show how the Gatsby/Forestry solution can be frustrating for both developers and content creators. As powerful as a code-friendly CMS is for developer productivity, developers need help creating a beautiful design. And creators are likely to struggle with editing code. This makes the Gatsby/Forestry solution a bit frustrating for both developers and content creators. Gallant announced TinaCMS, a new product that attempts to deliver the best of both worlds.
 
 For now, we're still in this awkward position where it feels like building a website is more difficult than it should be. There are probably lot of people who aren't professional web developers but nevertheless want to go a level deeper than what simple drag-and-drop tools allow today.
 
-It's encouranging, though, to see how the JAMStack is bridging the worlds of using a code-free CMS and of building a site from scratch. Over time, this will empower more people to create original, creative websites, and lead us toward a more innovative and interactive web.
+It's encouraging, though, to see how the JAMStack is bridging the worlds of using a code-free CMS and of building a site from scratch. Over time, this will empower more people to create original, creative websites, and lead us toward a more innovative and interactive web.
