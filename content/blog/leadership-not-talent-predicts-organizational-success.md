@@ -6,6 +6,8 @@ devUrl: ''
 footerText: What are the best and worst team cultures you've experienced?
 
 ---
+![](/uploads/teamwork.jpg)
+
 The software industry has a well-documented talent shortage. But an organization's success isn’t a function of their hiring process or how many developers they can lure in with salary and perks. In the end, it all comes down to leadership.
 
 It’s true that there are relatively few senior developers, compared to the market demand. It's hard to find people who can pick up a complicated, multifaceted problem and understand what it takes to drive it to completion, let alone convince them to work for you.
