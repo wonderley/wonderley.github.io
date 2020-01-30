@@ -2,7 +2,7 @@
 date: 2020-01-29T00:25:55.000+00:00
 title: Leadership, not talent, predicts organizational success
 twitterUrl: https://twitter.com/LucasWonderley/status/1222385211666837506
-devUrl: ''
+devUrl: https://dev.to/wonderley/leadership-not-talent-predicts-organizational-success-30p5
 footerText: What are the best and worst team cultures you've experienced?
 
 ---
