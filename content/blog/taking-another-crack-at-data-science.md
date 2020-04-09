@@ -3,7 +3,7 @@ date: 2020-04-09T04:55:44Z
 title: Taking another crack at data science
 twitterUrl: ''
 devUrl: ''
-footerText: ''
+footerText: 'Are you learning data science, too?'
 
 ---
 After over a year of studying data science, I quit. It was interesting, but also hard.
