@@ -4,10 +4,9 @@ title: Managing cognitive load
 twitterUrl: ''
 devUrl: ''
 footerText: ''
+description: How not to turn into a computer when you work on one all day
 
 ---
-How not to turn into a computer when you work on one all day
-
 Doing challenging technical work can starve your social and creative sides because it forces you to strive for correctness all the time. You have to take deliberate steps to maintain a sense of balance, well-being and humanity.
 
 I find joy in the abstraction, logic and ingenuity that software development entails. But the work can take a toll.
