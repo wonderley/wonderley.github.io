@@ -22,6 +22,11 @@ fields:
 - type: text
   name: footerText
   label: footerText
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
 pages:
 - content/blog/leadership-not-talent-predicts-organizational-success.md
 - content/blog/managing-cognitive-load.md
