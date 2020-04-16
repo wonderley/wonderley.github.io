@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lucas Wonderley]]></title><description><![CDATA[Lucas Wonderley's personal website]]></description><link>https://wonderley.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Apr 2020 05:05:01 GMT</lastBuildDate><item><title><![CDATA[Taking another crack at data science]]></title><description><![CDATA[After over a year of studying data science, I quit. It was interesting, but also hard. I wondered if I should spend less time doing…]]></description><link>https://wonderley.io/taking-another-crack-at-data-science/</link><guid isPermaLink="false">https://wonderley.io/taking-another-crack-at-data-science/</guid><pubDate>Thu, 09 Apr 2020 04:55:44 GMT</pubDate><content:encoded>&lt;p&gt;After over a year of studying data science, I quit. It was interesting, but also hard.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lucas Wonderley]]></title><description><![CDATA[Lucas Wonderley's personal website]]></description><link>https://wonderley.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 Apr 2020 02:47:53 GMT</lastBuildDate><item><title><![CDATA[Managing cognitive load]]></title><description><![CDATA[Doing challenging technical work can starve your social and creative sides because it forces you to strive for correctness all the time. You…]]></description><link>https://wonderley.io/managing-cognitive-load/</link><guid isPermaLink="false">https://wonderley.io/managing-cognitive-load/</guid><pubDate>Thu, 16 Apr 2020 02:07:46 GMT</pubDate><content:encoded>&lt;p&gt;Doing challenging technical work can starve your social and creative sides because it forces you to strive for correctness all the time. You have to take deliberate steps to maintain a sense of balance, well-being and humanity.&lt;/p&gt;
+&lt;p&gt;I find joy in the abstraction, logic and ingenuity that software development entails. But the work can take a toll.&lt;/p&gt;
+&lt;p&gt;To debug effectively, you have to think like a computer and play out how a system works in your head. Do this for many hours every day, and you may begin to feel like a computer yourself.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/18a12edf3acd290875eb478abe28c628/41332/Tweet.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 35%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABXElEQVQoz41Ry07CUBDtHoEoCzRAeSjcllLk2RZaWtoClvIQoWhiCIk/4T+48pOP995SVy5cnMxkzszJzBzBnG9wOn9gMA1hzLbQ/S3C6IyKOkJWbCJXVXFTaf0LuVobgrOO8Pn1DXU0A9E8SBRk6HKhdIEgW5I5MkWJIo5pnlNc6oxPRIWioqGu+xAVHbXHMe47JqSBg3pvAtK38dC1UG2PQWiN5SzKw+kvx/rYbLbUjAXZ8Gz7Bnf9ikmwhx0eYC52mK6OcFYRzKcX/gonjHPWE+xP8OkMyxe7d75IsqWg6B6CwykeoEL28kD/uIFLxbz1kdaeqXjEecaNqDjbSqJbivS6h47F33NdVmLBcstA21ygawe8SdZctAwfxJhDsZYcqhVAMTzOsYvYcLogcdPYHxMxFoV8oweROppv9HFHBig0NdySPlKSiZRs0Wjhqq5zgzIXM/5yOBH9AROY2yy3rOzzAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Tweet&quot;
+        title=&quot;Tweet&quot;
+        src=&quot;/static/18a12edf3acd290875eb478abe28c628/799d3/Tweet.png&quot;
+        srcset=&quot;/static/18a12edf3acd290875eb478abe28c628/00d96/Tweet.png 148w,
+/static/18a12edf3acd290875eb478abe28c628/0b23c/Tweet.png 295w,
+/static/18a12edf3acd290875eb478abe28c628/799d3/Tweet.png 590w,
+/static/18a12edf3acd290875eb478abe28c628/2a3d6/Tweet.png 885w,
+/static/18a12edf3acd290875eb478abe28c628/ae92f/Tweet.png 1180w,
+/static/18a12edf3acd290875eb478abe28c628/41332/Tweet.png 1320w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Our work affects us more than we realize. At times, afraid I might permanently lose touch with the other parts of myself, I’ve considered quitting engineering entirely.&lt;/p&gt;
+&lt;p&gt;But the underlying problem of getting sucked into technical work at the expense of other parts of one’s life and personality isn’t a sad reality to be accepted. The issue can be avoided. I’ve found that the key is managing cognitive load.&lt;/p&gt;
+&lt;p&gt;Put another way, you’ve got to avoid overworking your brain’s RAM. Never let it spin too hot for too long.&lt;/p&gt;
+&lt;p&gt;Following a few guidelines makes a huge difference. For one, you can give your intellect a rest by walking or exercising. Anything physical is going to make your mind work less.&lt;/p&gt;
+&lt;p&gt;Slightly less obvious: creative and analytical tasks use different mental muscles. Take advantage of this distinction by taking creative breaks to rest your analytical chops.&lt;/p&gt;
+&lt;p&gt;Seek out conversations about something other than that problem you’re solving. A simple chat can be a fun way of remembering that not everything needs to fit into a perfectly logical box.&lt;/p&gt;
+&lt;p&gt;I like listening to podcasts in a language I’m learning to get some extra low-effort exposure. This isn’t for everyone, but for me it’s a fun way of switching things up during the day. Things like this can can keep you sane and balanced. Know what they are for you, and consider setting goals for them so the time you spend doesn’t feel wasted.&lt;/p&gt;
+&lt;p&gt;Finally, use a system of notes to record your thoughts and ideas in digital or paper form. Make lists and draw pictures, and revisit them often. By writing down what you’ve already figured out, you give your mind more space. This keeps it from getting bogged down.&lt;/p&gt;
+&lt;p&gt;It is possible to do technical work without feeling like it’s turning you into a robot. Coding doesn’t have to be antithetical to being social. You can embrace being a nerd, be successful in your career and still be a real human being in the rest of your life. It just requires self-awareness and being disciplined with your time.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Taking another crack at data science]]></title><description><![CDATA[After over a year of studying data science, I quit. It was interesting, but also hard. I wondered if I should spend less time doing…]]></description><link>https://wonderley.io/taking-another-crack-at-data-science/</link><guid isPermaLink="false">https://wonderley.io/taking-another-crack-at-data-science/</guid><pubDate>Thu, 09 Apr 2020 04:55:44 GMT</pubDate><content:encoded>&lt;p&gt;After over a year of studying data science, I quit. It was interesting, but also hard.&lt;/p&gt;
 &lt;p&gt;I wondered if I should spend less time doing technical work, instead of more. I imagined myself to be a foolish engineer, always chasing around ideas and complexity when the real success is found in sales or entrepreneurship.&lt;/p&gt;
 &lt;p&gt;In fact, the problem was viewing things through a career lens. It was about “becoming a data scientist” or going into such-and-such. That rationale is uninspiring and impersonal, therefore fragile. Conversely, going with what draws you in brings an authenticity that trumps perfectly following an established career path.&lt;/p&gt;
 &lt;p&gt;Having learned how to do technical work while keeping my sanity, I see data science with fresh eyes. It’s the opportunity to find real insight in the world: A rare treasure. If you can do something worthwhile, you should. So I’m picking up where I left off.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Leadership, not talent, predicts organizational success]]></title><description><![CDATA[The software industry has a well-documented talent shortage. But an organization’s success isn’t a function of their hiring process or how…]]></description><link>https://wonderley.io/leadership-not-talent-predicts-organizational-success/</link><guid isPermaLink="false">https://wonderley.io/leadership-not-talent-predicts-organizational-success/</guid><pubDate>Wed, 29 Jan 2020 00:25:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/uploads/teamwork.jpg&quot;&gt;&lt;/p&gt;
