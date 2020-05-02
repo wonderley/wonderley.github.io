@@ -29,5 +29,5 @@ fields:
   label: description
 pages:
 - content/blog/leadership-not-talent-predicts-organizational-success.md
-- content/blog/managing-cognitive-load.md
 - content/blog/taking-another-crack-at-data-science.md
+- content/blog/why-you-should-use-unix-time-in-your-apps.md
