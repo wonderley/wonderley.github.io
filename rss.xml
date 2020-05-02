@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lucas Wonderley]]></title><description><![CDATA[Lucas Wonderley's personal website]]></description><link>https://wonderley.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 Apr 2020 02:47:53 GMT</lastBuildDate><item><title><![CDATA[Managing cognitive load]]></title><description><![CDATA[Doing challenging technical work can starve your social and creative sides because it forces you to strive for correctness all the time. You…]]></description><link>https://wonderley.io/managing-cognitive-load/</link><guid isPermaLink="false">https://wonderley.io/managing-cognitive-load/</guid><pubDate>Thu, 16 Apr 2020 02:07:46 GMT</pubDate><content:encoded>&lt;p&gt;Doing challenging technical work can starve your social and creative sides because it forces you to strive for correctness all the time. You have to take deliberate steps to maintain a sense of balance, well-being and humanity.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lucas Wonderley]]></title><description><![CDATA[Lucas Wonderley's personal website]]></description><link>https://wonderley.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 May 2020 19:57:32 GMT</lastBuildDate><item><title><![CDATA[Why you should use Unix time in your apps]]></title><description><![CDATA[Seconds since 1970, January 1st at midnight: The Unix Epoch. This way of representing time, called Unix or epoch time, is common in software…]]></description><link>https://wonderley.io/why-you-should-use-unix-time-in-your-apps/</link><guid isPermaLink="false">https://wonderley.io/why-you-should-use-unix-time-in-your-apps/</guid><pubDate>Sat, 02 May 2020 19:11:27 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e2f3c5bd0b7411deb2e5477775836a83/e7068/unix-time-big-bang-1970.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.703125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABStR2YyzBq//EABsQAQACAgMAAAAAAAAAAAAAAAIBAwAEERIj/9oACAEBAAEFAqC3No83xCrskZOxLyxd1//EABcRAAMBAAAAAAAAAAAAAAAAAAACEQH/2gAIAQMBAT8BWM0Nh//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPwFUNIL/xAAcEAADAAEFAAAAAAAAAAAAAAAAARECEiEiMZH/2gAIAQEABj8Ciyapz9Hp6NiQrP/EABoQAQADAQEBAAAAAAAAAAAAAAEAETEhUXH/2gAIAQEAAT8h9qAzhHZX1EF0MWEGQh6sXHrAc5P/2gAMAwEAAgADAAAAECzv/8QAGBEBAQADAAAAAAAAAAAAAAAAAQARITH/2gAIAQMBAT8QeQ5AOm//xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oACAECAQE/EOUtlQU2/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBYVFxgZH/2gAIAQEAAT8Q7aMKfeGOUWGbt78QQrVAy9xioFdZbefyAUs7aQLi4wCmmJ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Unix Epoch&quot;
+        title=&quot;The Unix Epoch&quot;
+        src=&quot;/static/e2f3c5bd0b7411deb2e5477775836a83/88218/unix-time-big-bang-1970.jpg&quot;
+        srcset=&quot;/static/e2f3c5bd0b7411deb2e5477775836a83/7237a/unix-time-big-bang-1970.jpg 148w,
+/static/e2f3c5bd0b7411deb2e5477775836a83/0cfdf/unix-time-big-bang-1970.jpg 295w,
+/static/e2f3c5bd0b7411deb2e5477775836a83/88218/unix-time-big-bang-1970.jpg 590w,
+/static/e2f3c5bd0b7411deb2e5477775836a83/77d57/unix-time-big-bang-1970.jpg 885w,
+/static/e2f3c5bd0b7411deb2e5477775836a83/5a917/unix-time-big-bang-1970.jpg 1180w,
+/static/e2f3c5bd0b7411deb2e5477775836a83/e7068/unix-time-big-bang-1970.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Seconds since 1970, January 1st at midnight: The Unix Epoch.&lt;/p&gt;
+&lt;p&gt;This way of representing time, called Unix or epoch time, is common in software because it makes it easy to get dates and times right.&lt;/p&gt;
+&lt;p&gt;What makes it useful? I don’t know about you, but for me, a big integer isn’t a great way of talking about time. For example, August 17th at 05:27:49 AM Eastern Time seems a lot more intuitive than -485188331, which is the Unix time version. But more familiar formats also have a lot of problems that Unix time avoids.&lt;/p&gt;
+&lt;p&gt;For one thing, there’s no confusion over time zones! It’s based on UTC, period. This means just a bit less mental overhead for system builders. Unix timestamps unambiguously refer to the same moment in time, wherever your code happens to run.&lt;/p&gt;
+&lt;p&gt;And working with it is simple. How many seconds are between two timestamps? With Unix time, you just subtract. No separate data structure needed to represent a duration. Want to convert seconds to hours? Just multiply by the number of seconds in an hour, or 3600. Milliseconds or smaller fractional seconds are decimals.&lt;/p&gt;
+&lt;p&gt;With modulo division, you can even check the number of hours since midnight of the current day, the number of minutes since the top of the hour and so on. And the simple representation makes it easy to write tests with canned data.&lt;/p&gt;
+&lt;p&gt;Simply put, it’s easier to build and reason about systems based on Unix time than with more human-intelligible formats, which have to be converted to a data structure and are liable to misinterpretation.&lt;/p&gt;
+&lt;p&gt;But why is it based on the start of 1970? Apparently the standard was invented in the early ‘70s, and it seemed like a reasonable thing to do. Fair enough, ‘70s computer science pioneers.&lt;/p&gt;
+&lt;p&gt;In software, Unix time is ubiquitous. Most libraries have a way of converting it to a human-readable timestamp and vice versa. The characteristically descriptive Swift programming language provides a timeIntervalSince1970 API. JavaScript returns the same value in milliseconds (in other words, multiplied by 1000) when you call getTime() on Date objects.&lt;/p&gt;
+&lt;p&gt;One downside of Unix timestamps is that they are less human-readable, which you have to account for while debugging. You can work around this with utility functions for printing human-readable timestamps. You can also convert between Unix time and other formats with tools like &lt;a href=&quot;http://epochconverter.com/&quot;&gt;epochconverter.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Of course, if the first second in 1970 has a Unix time of 0, that makes everything pre-1970 a negative number that gets more negative as you go back in time. You’ll want to take the absolute value to do modulo division. Other basic operations work fine with negatives.&lt;/p&gt;
+&lt;p&gt;Now, because nothing in internationalization is as simple as we’d like, there is a rub. Leap seconds, or extra seconds that are prescribed by scientists from time to time, are accounted for in Unix time by double-counting. Those extra leap seconds actually have the same value as the second before them. This makes Unix time not a true representation of UTC!&lt;/p&gt;
+&lt;p&gt;International atomic time (TAI) is an equivalent system which includes leap seconds as separate timestamps. This means it gradually gets out of sync with earth’s rotation by roughly a second per year. But in return, it avoids duplicating values. In my experience, ordinary Unix time is the standard, but TAI may gain popularity, especially in domains like time-critical domains finance and aerospace engineering.&lt;/p&gt;
+&lt;p&gt;Use Unix time to represent time in your apps! It’ll make your code easier to understand and less error-prone, so you can focus on other stuff.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Managing cognitive load]]></title><description><![CDATA[Doing challenging technical work can starve your social and creative sides because it forces you to strive for correctness all the time. You…]]></description><link>https://wonderley.io/managing-cognitive-load/</link><guid isPermaLink="false">https://wonderley.io/managing-cognitive-load/</guid><pubDate>Thu, 16 Apr 2020 02:07:46 GMT</pubDate><content:encoded>&lt;p&gt;Doing challenging technical work can starve your social and creative sides because it forces you to strive for correctness all the time. You have to take deliberate steps to maintain a sense of balance, well-being and humanity.&lt;/p&gt;
 &lt;p&gt;I find joy in the abstraction, logic and ingenuity that software development entails. But the work can take a toll.&lt;/p&gt;
 &lt;p&gt;To debug effectively, you have to think like a computer and play out how a system works in your head. Do this for many hours every day, and you may begin to feel like a computer yourself.&lt;/p&gt;
 &lt;p&gt;&lt;span
