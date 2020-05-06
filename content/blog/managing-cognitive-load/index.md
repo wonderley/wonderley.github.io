@@ -1,8 +1,8 @@
 ---
 date: 2020-04-16T02:07:46Z
 title: Managing cognitive load
-twitterUrl: ''
-devUrl: ''
+twitterUrl: 'https://twitter.com/LucasWonderley/status/1250619042005757952?s=20'
+devUrl: 'https://dev.to/wonderley/managing-cognitive-load-4n10'
 footerText: 'How do you manage cognitive load?'
 description: How not to turn into a computer when you work on one all day
 

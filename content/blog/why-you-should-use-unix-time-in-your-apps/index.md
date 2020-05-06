@@ -1,8 +1,8 @@
 ---
 date: 2020-05-02T19:11:27Z
 title: Why you should use Unix time in your apps
-twitterUrl: ''
-devUrl: ''
+twitterUrl: 'https://twitter.com/LucasWonderley/status/1257110723605512192?s=20'
+devUrl: 'https://dev.to/wonderley/why-you-should-use-unix-time-in-your-apps-an5'
 footerText: Do you use Unix time in your apps?
 description: ''
 
